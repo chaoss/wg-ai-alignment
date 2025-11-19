@@ -32,6 +32,7 @@ We aim to collect together a wide variety of examples of:
 * CHAOSS Augur ([discussion](https://github.com/chaoss/augur/issues/3371))
 * SciPy ([discussion](https://discuss.scientific-python.org/t/a-policy-on-generative-ai-assisted-contributions/1702))
 * Ansible ([discussion](https://forum.ansible.com/t/ansible-ai-policy/42642))
+* pip-tools ([discussion](https://github.com/jazzband/pip-tools/discussions/2278))
 
 ### Github
 * ([discussion](https://github.com/community/maintainers/discussions/470#discussioncomment-12852461))
