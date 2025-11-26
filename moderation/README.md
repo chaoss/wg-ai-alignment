@@ -52,6 +52,8 @@ We aim to collect together a wide variety of examples of:
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
 
+## Responsible AI Contribution examples
+* [Joshua Rogers' Curl contributions](https://mastodon.social/@bagder/115241241075258997)
 
 ## Spam examples
 * https://github.com/ansible/ansible/issues/84967#issuecomment-2804372979
