@@ -57,6 +57,7 @@ We aim to collect together a wide variety of examples of:
 * [Joshua Rogers' Curl contributions](https://mastodon.social/@bagder/115241241075258997)
 
 ## Spam examples
+* [mesa contribution](https://gitlab.freedesktop.org/mesa/mesa/-/work_items/13736) ([explanation by Brodie robertson](https://www.youtube.com/watch?v=4d8jLfa5Mx8))
 * https://github.com/ansible/ansible/issues/84967#issuecomment-2804372979
 * https://github.com/ansible/ansible/pull/84923#issuecomment-2777540712
 * https://github.com/ansible/ansible/issues/84909#issuecomment-2775920368
