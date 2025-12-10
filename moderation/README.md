@@ -20,7 +20,10 @@ We aim to collect together a wide variety of examples of:
 * Kubernetes ([discussion 1](https://github.com/kubernetes/steering/issues/291), [discussion 2](https://github.com/kubernetes/community/issues/8558))
 
 
-## Organization/Foundation AI policies Policies
+## Organization/Company Policies
+* [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
+
+## Foundation AI Policies
 * [Linux Foundation](https://www.linuxfoundation.org/legal/generative-ai)
 * [OpenInfra Foundation](https://openinfra.org/legal/ai-policy)
 
