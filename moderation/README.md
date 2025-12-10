@@ -60,6 +60,7 @@ We aim to collect together a wide variety of examples of:
 * https://github.com/ansible/ansible/issues/84967#issuecomment-2804372979
 * https://github.com/ansible/ansible/pull/84923#issuecomment-2777540712
 * https://github.com/ansible/ansible/issues/84909#issuecomment-2775920368
+* [Ocaml](https://github.com/ocaml/ocaml/pull/14369): using AI tools with a niche programming language, resulting in nearly directly lifting someone elses code, including headers and attribution
 
 ## Credits
 Thanks to the CHAOSS AI alignment working group and Sviatoslav Sydorenko for the sources that made the initial version of this list
