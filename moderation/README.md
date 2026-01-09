@@ -53,6 +53,7 @@ We aim to collect together a wide variety of examples of:
 * https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
 * https://www.redhat.com/en/blog/accelerating-open-source-development-ai
+* https://sunnydeveloper.com/ai-consent-for-open-communities/
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
