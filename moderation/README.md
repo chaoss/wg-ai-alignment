@@ -18,6 +18,7 @@ We aim to collect together a wide variety of examples of:
 * [Servo](https://book.servo.org/contributing.html#ai-contributions) ([discussion](https://github.com/servo/servo/discussions/36379))
 * [Gentoo](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 * Kubernetes ([discussion 1](https://github.com/kubernetes/steering/issues/291), [discussion 2](https://github.com/kubernetes/community/issues/8558))
+* [Castle Game Engine](https://castle-engine.io/) - [Rules for contributing and using AI](https://castle-engine.io/ai)
 
 
 ## Organization/Company Policies
@@ -67,6 +68,8 @@ We aim to collect together a wide variety of examples of:
 * https://github.com/ansible/ansible/pull/84923#issuecomment-2777540712
 * https://github.com/ansible/ansible/issues/84909#issuecomment-2775920368
 * [Ocaml](https://github.com/ocaml/ocaml/pull/14369): using AI tools with a niche programming language, resulting in nearly directly lifting someone elses code, including headers and attribution
+* [Castle Game Engine](https://forum.castle-engine.io/t/for-you-with-ia/2048/4)  : Forum thread with "IA" where user produced code with AI that looks similar to using Castle Game Engine... but in fact is not correct.  The code is using obsolete or never-existing engine API, and (worse) goes against some of our recommended practices, in effect making the code unportable (it can only work on desktop, not mobile or web). This is problematic, as the AI code is not even a good starting point -- if you just fix it, following compiler errors, making minimal changes, you may get something that works (at least with some older engine version) but is in fact a bad starting point, not portable, not organized to scale to larger projects.
+* [Submission to "modern Pascal" book](https://github.com/modern-pascal/modern-pascal-introduction/issues/28) The prose looks professional but is just factually wrong in many points. The linked issue contains also my long nice answer explaining it, so that human submitter (who wanted to do good and was just misled by AI) understands the problem.
 
 ## Credits
 Thanks to the CHAOSS AI alignment working group and Sviatoslav Sydorenko for the sources that made the initial version of this list
