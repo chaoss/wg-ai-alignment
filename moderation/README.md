@@ -1,7 +1,7 @@
 # AI Aligment - Moderation Resources and Links
 
 
-# Awesome LLM Policy
+## Awesome LLM Policy
 
 Looking to craft an LLM or Generative AI policy for your project?
 
@@ -12,7 +12,7 @@ We aim to collect together a wide variety of examples of:
 - examples of the kinds of behavior AI policies are meant to prevent
 - Other resources that may be helpful 
 
-# Project AI Policies
+### Project AI Policies
 * [Python (Devguide)](https://devguide.python.org/getting-started/generative-ai/)
 * [Zulip](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 * [Ladybird Browser](https://github.com/LadybirdBrowser/ladybird/blob/master/CONTRIBUTING.md#on-usage-of-ai-and-llms)
@@ -24,10 +24,10 @@ We aim to collect together a wide variety of examples of:
 * [Castle Game Engine](https://castle-engine.io/) - [Rules for contributing and using AI](https://castle-engine.io/ai)
 * [FastAPI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 
-## Organization/Company Policies
+### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 
-## Foundation AI Policies
+### Foundation AI Policies
 * [Linux Foundation](https://www.linuxfoundation.org/legal/generative-ai)
 * [OpenInfra Foundation](https://openinfra.org/legal/ai-policy)
 
