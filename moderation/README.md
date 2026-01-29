@@ -23,6 +23,7 @@ We aim to collect together a wide variety of examples of:
 * Kubernetes ([discussion 1](https://github.com/kubernetes/steering/issues/291), [discussion 2](https://github.com/kubernetes/community/issues/8558))
 * [Castle Game Engine](https://castle-engine.io/) - [Rules for contributing and using AI](https://castle-engine.io/ai)
 * [FastAPI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
+* [Ghostty](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
