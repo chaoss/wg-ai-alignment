@@ -1,3 +1,6 @@
+# AI Aligment - Moderation Resources and Links
+
+
 # Awesome LLM Policy
 
 Looking to craft an LLM or Generative AI policy for your project?
@@ -55,6 +58,9 @@ We aim to collect together a wide variety of examples of:
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
 * https://www.redhat.com/en/blog/accelerating-open-source-development-ai
 * https://sunnydeveloper.com/ai-consent-for-open-communities/
+
+## News
+* https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/]()](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
