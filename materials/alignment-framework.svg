@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700">
+  <defs>
+    <style>
+      .legend-text { font-family: Arial, sans-serif; font-size: 13px; fill: #333; }
+      .legend-title { font-family: Arial, sans-serif; font-weight: bold; font-size: 16px; fill: #333; }
+      .question-text { font-family: Arial, sans-serif; font-size: 11px; fill: #555; font-style: italic; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="900" height="600" fill="#fafafa"/>
+  
+  <!-- Concentric circles - outer to inner -->
+  <!-- Community (outermost) - Teal -->
+  <circle cx="300" cy="300" r="250" fill="#26a69a" opacity="0.85"/>
+  
+  <!-- Knowledge - Purple -->
+  <circle cx="300" cy="300" r="208" fill="#7e57c2" opacity="0.85"/>
+  
+  <!-- Legal - Blue -->
+  <circle cx="300" cy="300" r="166" fill="#42a5f5" opacity="0.85"/>
+  
+  <!-- Labor - Orange -->
+  <circle cx="300" cy="300" r="124" fill="#ffa726" opacity="0.85"/>
+  
+  <!-- Governance - Red/Coral -->
+  <circle cx="300" cy="300" r="82" fill="#ef5350" opacity="0.85"/>
+  
+  <!-- Values (center) - Gold -->
+  <circle cx="300" cy="300" r="45" fill="#ffd54f" opacity="1"/>
+  
+  <!-- Legend box -->
+  <rect x="600" y="60" width="280" height="480" fill="#fff" stroke="#ddd" stroke-width="1" rx="8"/>
+  
+  <text x="740" y="95" text-anchor="middle" class="legend-title">Potential Layers for AI Alignment</text>
+  
+  <!-- Legend items -->
+  <!-- Values -->
+  <rect x="620" y="125" width="24" height="24" fill="#ffd54f" rx="4"/>
+  <text x="654" y="140" class="legend-text" font-weight="bold">Values</text>
+  <text x="620" y="160" class="question-text">Whose values? Are open source</text>
+  <text x="620" y="173" class="question-text">principles being preserved?</text>
+  
+  <!-- Governance -->
+  <rect x="620" y="195" width="24" height="24" fill="#ef5350" rx="4"/>
+  <text x="654" y="210" class="legend-text" font-weight="bold">Governance</text>
+  <text x="620" y="230" class="question-text">Who decides? Does AI respect how</text>
+  <text x="620" y="243" class="question-text">our community makes decisions?</text>
+  
+  <!-- Labor -->
+  <rect x="620" y="265" width="24" height="24" fill="#ffa726" rx="4"/>
+  <text x="654" y="280" class="legend-text" font-weight="bold">Labor</text>
+  <text x="620" y="300" class="question-text">Whose work? Is contributor labor</text>
+  <text x="620" y="313" class="question-text">respected, credited, or extracted?</text>
+  
+  <!-- Legal -->
+  <rect x="620" y="335" width="24" height="24" fill="#42a5f5" rx="4"/>
+  <text x="654" y="350" class="legend-text" font-weight="bold">Legal</text>
+  <text x="620" y="370" class="question-text">Whose rights? Is attribution,</text>
+  <text x="620" y="383" class="question-text">licensing, provenance honored?</text>
+  
+  <!-- Knowledge -->
+  <rect x="620" y="405" width="24" height="24" fill="#7e57c2" rx="4"/>
+  <text x="654" y="420" class="legend-text" font-weight="bold">Knowledge</text>
+  <text x="620" y="440" class="question-text">Who has access? Is knowledge shared</text>
+  <text x="620" y="453" class="question-text">openly or enclosed in private systems?</text>
+  
+  <!-- Community -->
+  <rect x="620" y="475" width="24" height="24" fill="#26a69a" rx="4"/>
+  <text x="654" y="490" class="legend-text" font-weight="bold">Community</text>
+  <text x="620" y="510" class="question-text">Whose benefit? Does this strengthen</text>
+  <text x="620" y="523" class="question-text">the commons or extract from it?</text>
+
+  <!-- WHO section below diagram -->
+  <rect x="60" y="580" width="560" height="80" fill="#fff" stroke="#ddd" stroke-width="1" rx="8"/>
+  
+  <text x="340" y="608" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#333">Potential Alignment with whom?</text>
+  
+  <!-- WHO items as horizontal list -->
+  <rect x="80" y="625" width="16" height="16" fill="#666" rx="3"/>
+  <text x="102" y="638" font-family="Arial, sans-serif" font-size="12" fill="#333">Maintainer</text>
+  
+  <rect x="190" y="625" width="16" height="16" fill="#666" rx="3"/>
+  <text x="212" y="638" font-family="Arial, sans-serif" font-size="12" fill="#333">Contributor</text>
+  
+  <rect x="310" y="625" width="16" height="16" fill="#666" rx="3"/>
+  <text x="332" y="638" font-family="Arial, sans-serif" font-size="12" fill="#333">Community</text>
+  
+  <rect x="420" y="625" width="16" height="16" fill="#666" rx="3"/>
+  <text x="442" y="638" font-family="Arial, sans-serif" font-size="12" fill="#333">Vendor/Company</text>
+  
+  <rect x="560" y="625" width="16" height="16" fill="#666" rx="3"/>
+  <text x="582" y="638" font-family="Arial, sans-serif" font-size="12" fill="#333">User</text>
+
+</svg>
