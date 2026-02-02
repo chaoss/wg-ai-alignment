@@ -61,7 +61,7 @@ We aim to collect together a wide variety of examples of:
 * https://sunnydeveloper.com/ai-consent-for-open-communities/
 
 ## News
-* https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/]()](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
+* https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
