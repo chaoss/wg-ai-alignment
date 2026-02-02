@@ -24,6 +24,7 @@ We aim to collect together a wide variety of examples of:
 * [Castle Game Engine](https://castle-engine.io/) - [Rules for contributing and using AI](https://castle-engine.io/ai)
 * [FastAPI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 * [Ghostty](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+* [Jellyfin](https://jellyfin.org/docs/general/contributing/llm-policies/)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
