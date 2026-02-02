@@ -18,7 +18,7 @@ We aim to collect together a wide variety of examples of:
 * [Ladybird Browser](https://github.com/LadybirdBrowser/ladybird/blob/master/CONTRIBUTING.md#on-usage-of-ai-and-llms)
 * [Python attrs](https://github.com/python-attrs/attrs/commit/6c54145aac47b60a4c0838acead291ae4a298771)
 * [Linux Kernel](https://lore.kernel.org/ksummit/20251114183528.1239900-1-dave.hansen@linux.intel.com/)
-* [Servo](https://book.servo.org/contributing.html#ai-contributions) ([discussion](https://github.com/servo/servo/discussions/36379))
+* [Servo](https://book.servo.org/contributing/getting-started.html#ai-contributions) ([discussion](https://github.com/servo/servo/discussions/36379))
 * [Gentoo](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 * Kubernetes ([discussion 1](https://github.com/kubernetes/steering/issues/291), [discussion 2](https://github.com/kubernetes/community/issues/8558))
 * [Castle Game Engine](https://castle-engine.io/) - [Rules for contributing and using AI](https://castle-engine.io/ai)
