@@ -62,6 +62,11 @@ We aim to collect together a wide variety of examples of:
 
 ## News
 * https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/]()](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
+* 
+## Tools
+
+- PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
+- CHAOSS AI disclosure detection tool https://github.com/chaoss/ai-detection-action
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
