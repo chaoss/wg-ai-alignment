@@ -25,6 +25,7 @@ We aim to collect together a wide variety of examples of:
 * [FastAPI](https://fastapi.tiangolo.com/contributing/#automated-code-and-ai)
 * [Ghostty](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 * [Jellyfin](https://jellyfin.org/docs/general/contributing/llm-policies/)
+* [PostmarketOS](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
