@@ -54,23 +54,32 @@ We aim to collect together a wide variety of examples of:
 * https://docs.ansible.com/ansible/latest/community/code_of_conduct.html
 
 
-## Blog Posts
+## Blog Posts About AI
 * https://blog.val.town/vibe-code
 * https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
 * https://www.redhat.com/en/blog/accelerating-open-source-development-ai
 * https://sunnydeveloper.com/ai-consent-for-open-communities/
 
+## Non AI blog posts
+* https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892
+* https://duckalignment.academy/code-conduct-enforcement-planning/
+
 ## News
 * https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/]()](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
 * 
-## Tools
 
+## Legal
+* https://lawreview.syr.edu/update-in-copilot-copyright-claim-may-affect-future-challenges-of-artificial-intelligence/
+
+## Tools
 - PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
 - CHAOSS AI disclosure detection tool https://github.com/chaoss/ai-detection-action
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
+* [Model Openness Framework Classes](https://arxiv.org/html/2403.13784v6#S4)
+
 
 ## Responsible AI Contribution examples
 * [Joshua Rogers' Curl contributions](https://mastodon.social/@bagder/115241241075258997)
@@ -83,6 +92,8 @@ We aim to collect together a wide variety of examples of:
 * [Ocaml](https://github.com/ocaml/ocaml/pull/14369): using AI tools with a niche programming language, resulting in nearly directly lifting someone elses code, including headers and attribution
 * [Castle Game Engine](https://forum.castle-engine.io/t/for-you-with-ia/2048/4)  : Forum thread with "IA" where user produced code with AI that looks similar to using Castle Game Engine... but in fact is not correct.  The code is using obsolete or never-existing engine API, and (worse) goes against some of our recommended practices, in effect making the code unportable (it can only work on desktop, not mobile or web). This is problematic, as the AI code is not even a good starting point -- if you just fix it, following compiler errors, making minimal changes, you may get something that works (at least with some older engine version) but is in fact a bad starting point, not portable, not organized to scale to larger projects.
 * [Submission to "modern Pascal" book](https://github.com/modern-pascal/modern-pascal-introduction/issues/28) The prose looks professional but is just factually wrong in many points. The linked issue contains also my long nice answer explaining it, so that human submitter (who wanted to do good and was just misled by AI) understands the problem.
+* Google using AI to find vulnerabilities in ffmpeg and publishing with really short timelines([video](https://www.youtube.com/watch?v=fxtnI407djY), [article](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/))
+* way too many comments - possibly karma farming - under one issue in CHAOSS/augur ([issue](https://github.com/chaoss/augur/issues/3360))
 
 ## Credits
 Thanks to the CHAOSS AI alignment working group and Sviatoslav Sydorenko for the sources that made the initial version of this list
