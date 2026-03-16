@@ -32,7 +32,7 @@ We aim to collect together a wide variety of examples of:
 ### Foundation AI Policies
 * [Linux Foundation](https://www.linuxfoundation.org/legal/generative-ai)
 * [OpenInfra Foundation](https://openinfra.org/legal/ai-policy)
-
+* [Apache Software Foundation](https://www.apache.org/legal/generative-tooling.html)
 
 ## Policy Frameworks
 
