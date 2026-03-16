@@ -66,8 +66,8 @@ We aim to collect together a wide variety of examples of:
 * https://duckalignment.academy/code-conduct-enforcement-planning/
 
 ## News
-* https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/]()](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
-* 
+* https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
+*  
 
 ## Legal
 * https://lawreview.syr.edu/update-in-copilot-copyright-claim-may-affect-future-challenges-of-artificial-intelligence/
