@@ -76,7 +76,7 @@ We aim to collect together a wide variety of examples of:
 * https://duckalignment.academy/code-conduct-enforcement-planning/
 
 ## News
-* https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
+* [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
 * [curl's security.txt — promises to ridicule AI spammers](https://curl.se/.well-known/security.txt)
 
 ## Legal
@@ -98,7 +98,7 @@ We aim to collect together a wide variety of examples of:
 
 ## Spam examples
 * [pallets/click](https://github.com/pallets/click/pull/3187#issuecomment-3796826158)
-* [jazzband/pip-tools (x6 mass spam PRs)](https://github.com/jazzband/pip-tools/pull/2311), [2312](https://github.com/jazzband/pip-tools/pull/2312), [2313](https://github.com/jazzband/pip-tools/pull/2313), [2314](https://github.com/jazzband/pip-tools/pull/2314), [2315](https://github.com/jazzband/pip-tools/pull/2315), [2316](https://github.com/jazzband/pip-tools/pull/2316)
+* jazzband/pip-tools (x6 mass spam PRs): [2311](https://github.com/jazzband/pip-tools/pull/2311), [2312](https://github.com/jazzband/pip-tools/pull/2312), [2313](https://github.com/jazzband/pip-tools/pull/2313), [2314](https://github.com/jazzband/pip-tools/pull/2314), [2315](https://github.com/jazzband/pip-tools/pull/2315), [2316](https://github.com/jazzband/pip-tools/pull/2316)
 * [Automated AI bots publicly shaming FOSS maintainers](https://sethmlarson.dev/automated-public-shaming-of-open-source-maintainers) ([example](https://github.com/matplotlib/matplotlib/pull/31132#issuecomment-3882256286))
 * [mesa contribution](https://gitlab.freedesktop.org/mesa/mesa/-/work_items/13736) ([explanation by Brodie robertson](https://www.youtube.com/watch?v=4d8jLfa5Mx8))
 * https://github.com/ansible/ansible/issues/84967#issuecomment-2804372979
