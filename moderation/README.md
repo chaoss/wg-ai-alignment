@@ -17,6 +17,7 @@ We aim to collect together a wide variety of examples of:
 * [Zulip](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 * [Ladybird Browser](https://github.com/LadybirdBrowser/ladybird/blob/master/CONTRIBUTING.md#on-usage-of-ai-and-llms)
 * [Python attrs](https://github.com/python-attrs/attrs/commit/6c54145aac47b60a4c0838acead291ae4a298771)
+* [Redox OS](https://gitlab.redox-os.org/redox-os/redox/-/commit/ea438d84aa29db70d73ea531b25ca4c6df78343a)
 * [Linux Kernel](https://lore.kernel.org/ksummit/20251114183528.1239900-1-dave.hansen@linux.intel.com/)
 * [Servo](https://book.servo.org/contributing/getting-started.html#ai-contributions) ([discussion](https://github.com/servo/servo/discussions/36379))
 * [Gentoo](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
