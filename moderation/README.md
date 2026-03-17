@@ -1,5 +1,4 @@
-# AI Aligment - Moderation Resources and Links
-
+# AI Alignment - Moderation Resources and Links
 
 ## Awesome LLM Policy
 
@@ -27,8 +26,14 @@ We aim to collect together a wide variety of examples of:
 * [Mastodon](https://github.com/mastodon/.github/blob/main/AI_POLICY.md)
 * [Ghostty](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
 * [Jellyfin](https://jellyfin.org/docs/general/contributing/llm-policies/)
-- [AFNix (AFNix)](https://docs.afnix.fr/policies/ai.html)
+* [AFNix](https://docs.afnix.fr/policies/ai.html)
 * [PostmarketOS](https://docs.postmarketos.org/policies-and-processes/development/ai-policy.html)
+* [QEMU](https://www.qemu.org/docs/master/devel/code-provenance.html#use-of-ai-generated-content)
+* [LLVM](https://llvm.org/docs/AIToolPolicy.html)
+* [SunPy](https://github.com/sunpy/sunpy?tab=readme-ov-file#usage-of-generative-ai)
+* [scikit-learn](https://github.com/scikit-learn/scikit-learn/blob/main/CODE_OF_CONDUCT.md#low-quality-and-ai-generated-contributions-policy)
+* [Matplotlib](https://matplotlib.org/devdocs/devel/contribute.html#restrictions-on-generative-ai-usage)
+* [pip-tools](https://pip-tools.rtfd.io/en/latest/contributing/#project-contribution-guidelines)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
@@ -59,6 +64,7 @@ We aim to collect together a wide variety of examples of:
 
 
 ## Blog Posts About AI
+* [Generative AI Policy Landscape in Open Source (RedMonk)](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/)
 * https://blog.val.town/vibe-code
 * https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
@@ -71,24 +77,29 @@ We aim to collect together a wide variety of examples of:
 
 ## News
 * https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/
-*  
+* [curl's security.txt — promises to ridicule AI spammers](https://curl.se/.well-known/security.txt)
 
 ## Legal
 * https://lawreview.syr.edu/update-in-copilot-copyright-claim-may-affect-future-challenges-of-artificial-intelligence/
 
 ## Tools
-- PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
-- CHAOSS AI disclosure detection tool https://github.com/chaoss/ai-detection-action
+* PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
+* CHAOSS AI disclosure detection tool https://github.com/chaoss/ai-detection-action
+* [AI Attribution format](https://aiattribution.github.io)
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
 * [Model Openness Framework Classes](https://arxiv.org/html/2403.13784v6#S4)
+* [Another curated list of OS AI contribution policies](https://github.com/melissawm/open-source-ai-contribution-policies)
 
 
 ## Responsible AI Contribution examples
 * [Joshua Rogers' Curl contributions](https://mastodon.social/@bagder/115241241075258997)
 
 ## Spam examples
+* [pallets/click](https://github.com/pallets/click/pull/3187#issuecomment-3796826158)
+* [jazzband/pip-tools (x6 mass spam PRs)](https://github.com/jazzband/pip-tools/pull/2311), [2312](https://github.com/jazzband/pip-tools/pull/2312), [2313](https://github.com/jazzband/pip-tools/pull/2313), [2314](https://github.com/jazzband/pip-tools/pull/2314), [2315](https://github.com/jazzband/pip-tools/pull/2315), [2316](https://github.com/jazzband/pip-tools/pull/2316)
+* [Automated AI bots publicly shaming FOSS maintainers](https://sethmlarson.dev/automated-public-shaming-of-open-source-maintainers) ([example](https://github.com/matplotlib/matplotlib/pull/31132#issuecomment-3882256286))
 * [mesa contribution](https://gitlab.freedesktop.org/mesa/mesa/-/work_items/13736) ([explanation by Brodie robertson](https://www.youtube.com/watch?v=4d8jLfa5Mx8))
 * https://github.com/ansible/ansible/issues/84967#issuecomment-2804372979
 * https://github.com/ansible/ansible/pull/84923#issuecomment-2777540712
@@ -101,4 +112,3 @@ We aim to collect together a wide variety of examples of:
 
 ## Credits
 Thanks to the CHAOSS AI alignment working group and Sviatoslav Sydorenko for the sources that made the initial version of this list
-
