@@ -1,6 +1,6 @@
 ---
-name: Add a link
-about: Suggest a new link to add to the moderation resources list
+name: Add a README.md link
+about: Suggest a new link to add to the MODERATION resources list
 title: "Add link: "
 labels: ""
 assignees: ""
