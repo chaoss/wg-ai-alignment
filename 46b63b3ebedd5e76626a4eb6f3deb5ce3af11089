@@ -1,0 +1,23 @@
+moderation/README.md
+  01aaf72e27ff54ef 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "46b63b3ebedd5e76626a4eb6f3deb5ce3af11089",
+  "prompts": {
+    "01aaf72e27ff54ef": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "241c6184-3387-4e75-bde5-f20f6b653bae",
+        "model": "unknown"
+      },
+      "human_author": "sunnydeveloper <emma.irwin@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
