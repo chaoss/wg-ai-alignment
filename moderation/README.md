@@ -34,6 +34,7 @@ We aim to collect together a wide variety of examples of:
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn/blob/main/CODE_OF_CONDUCT.md#low-quality-and-ai-generated-contributions-policy)
 * [Matplotlib](https://matplotlib.org/devdocs/devel/contribute.html#restrictions-on-generative-ai-usage)
 * [pip-tools](https://pip-tools.rtfd.io/en/latest/contributing/#project-contribution-guidelines)
+* [PROJ](https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
