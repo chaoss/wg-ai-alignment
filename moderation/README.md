@@ -71,19 +71,6 @@ _(Private — access can be requested by joining the [GitHub Maintainers Communi
 * https://docs.ansible.com/ansible/latest/community/code_of_conduct.html
 
 
-## Meta-Lists
-Other curated lists and surveys covering AI and open source:
-
-### 2026
-#### March
-* [Is AI killing open source software? - Reading list (Stormy Peters)](https://www.linkedin.com/pulse/ai-killing-open-source-software-reading-list-stormy-peters-mebfc)
-
-#### February
-* [Generative AI Policy Landscape in Open Source (RedMonk)](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/)
-
-#### Ongoing
-* [Another curated list of OS AI contribution policies](https://github.com/melissawm/open-source-ai-contribution-policies)
-
 ## Blog Posts & News
 
 ### 2026
@@ -109,6 +96,19 @@ Other curated lists and surveys covering AI and open source:
 ### 2024
 #### October
 * https://lawreview.syr.edu/update-in-copilot-copyright-claim-may-affect-future-challenges-of-artificial-intelligence/
+
+## Meta-Lists
+Other curated lists and surveys covering AI and open source:
+
+### 2026
+#### March
+* [Is AI killing open source software? - Reading list (Stormy Peters)](https://www.linkedin.com/pulse/ai-killing-open-source-software-reading-list-stormy-peters-mebfc)
+
+#### February
+* [Generative AI Policy Landscape in Open Source (RedMonk)](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/)
+
+#### Ongoing
+* [Another curated list of OS AI contribution policies](https://github.com/melissawm/open-source-ai-contribution-policies)
 
 
 ## Tools
