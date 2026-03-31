@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "f0305b378df9e19f58177a643c3c8779921d679f",
+  "prompts": {
+    "5704eda2f4ecd948": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "a3392316-c906-47e0-8c06-0fb17f20c686",
+        "model": "unknown"
+      },
+      "human_author": "sunnydeveloper <emma.irwin@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 767,
+      "overriden_lines": 0
+    }
+  }
+}
