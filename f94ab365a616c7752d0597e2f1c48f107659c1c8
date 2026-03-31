@@ -1,0 +1,36 @@
+.github/ISSUE_TEMPLATE/add-link.yml
+  5704eda2f4ecd948 1-51,58-62
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.22",
+  "base_commit_sha": "f94ab365a616c7752d0597e2f1c48f107659c1c8",
+  "prompts": {
+    "01aaf72e27ff54ef": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "241c6184-3387-4e75-bde5-f20f6b653bae",
+        "model": "unknown"
+      },
+      "human_author": "sunnydeveloper <emma.irwin@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 30,
+      "overriden_lines": 0
+    },
+    "5704eda2f4ecd948": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "a3392316-c906-47e0-8c06-0fb17f20c686",
+        "model": "unknown"
+      },
+      "human_author": "sunnydeveloper <emma.irwin@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 823,
+      "overriden_lines": 0
+    }
+  }
+}
