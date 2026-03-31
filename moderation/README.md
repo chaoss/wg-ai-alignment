@@ -2,14 +2,12 @@
 
 ## Awesome LLM Policy
 
-Looking to craft an LLM or Generative AI policy for your project?
+We aim to collect and share a variety of relevant discussion, writing and policy related to AI and open source. Please [open an issue](https://github.com/chaoss/wg-ai-alignment/issues) to add yours!
 
-Look no further than this repo!
-
-We aim to collect together a wide variety of examples of:
-- published AI policies from projects or organizations
-- examples of the kinds of behavior AI policies are meant to prevent
-- Other resources that may be helpful 
+This includes:
+- Published AI policies from projects or organizations
+- Examples of the kinds of behavior AI policies are meant to prevent
+- Blog posts and news articles
 
 ### Current Project AI Policies
 * [Python (Devguide)](https://devguide.python.org/getting-started/generative-ai/)
@@ -35,6 +33,7 @@ We aim to collect together a wide variety of examples of:
 * [Matplotlib](https://matplotlib.org/devdocs/devel/contribute.html#restrictions-on-generative-ai-usage)
 * [pip-tools](https://pip-tools.rtfd.io/en/latest/contributing/#project-contribution-guidelines)
 * [Astropy](https://github.com/astropy/astropy-project/blob/main/policies/ai-policy.md)
+* [curl](https://curl.se/.well-known/security.txt)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
@@ -43,8 +42,6 @@ We aim to collect together a wide variety of examples of:
 * [Linux Foundation](https://www.linuxfoundation.org/legal/generative-ai)
 * [OpenInfra Foundation](https://openinfra.org/legal/ai-policy)
 * [Apache Software Foundation](https://www.apache.org/legal/generative-tooling.html)
-
-## Policy Frameworks
 
 ## Discussions
 
@@ -62,14 +59,15 @@ We aim to collect together a wide variety of examples of:
 * CHAOSS Augur ([discussion](https://github.com/chaoss/augur/issues/3371))
 * pip-tools ([discussion](https://github.com/jazzband/pip-tools/discussions/2278))
 
-### Github
-* ([discussion](https://github.com/community/maintainers/discussions/470#discussioncomment-12852461))
-* ([discussion](https://github.com/community/maintainers/discussions/470#discussioncomment-12390642))
-* ([discussion](https://github.com/community/maintainers/discussions/442#discussioncomment-12356408))
-* ([discussion](https://github.com/community/maintainers/discussions/646))
+### GitHub Maintainers Community Forum
+_(Private — access can be requested by joining the [GitHub Maintainers Community](https://maintainers.github.com/))_
+* [GitHub Maintainers Community Forum discussion #470 (comment)](https://github.com/community/maintainers/discussions/470#discussioncomment-12852461)
+* [GitHub Maintainers Community Forum discussion #470 (comment)](https://github.com/community/maintainers/discussions/470#discussioncomment-12390642)
+* [GitHub Maintainers Community Forum discussion #442 (comment)](https://github.com/community/maintainers/discussions/442#discussioncomment-12356408)
+* [GitHub Maintainers Community Forum discussion #646](https://github.com/community/maintainers/discussions/646)
 
 
-## Codes of Conduct (no specific AI mention)
+## Codes of Conduct
 * https://docs.ansible.com/ansible/latest/community/code_of_conduct.html
 
 
@@ -86,44 +84,32 @@ Other curated lists and surveys covering AI and open source:
 #### Ongoing
 * [Another curated list of OS AI contribution policies](https://github.com/melissawm/open-source-ai-contribution-policies)
 
-## Blog Posts About AI
+## Blog Posts & News
 
 ### 2026
 #### January
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
+* [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
 
 ### 2025
 #### December
 * https://www.redhat.com/en/blog/accelerating-open-source-development-ai
 * https://sunnydeveloper.com/ai-consent-for-open-communities/
 
+#### September
+* https://duckalignment.academy/code-conduct-enforcement-planning/
+
 #### July
 * https://blog.val.town/vibe-code
 * https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/
 
-## Non AI blog posts
-
-### 2025
-#### September
-* https://duckalignment.academy/code-conduct-enforcement-planning/
-
 #### February
 * https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892
-
-## News
-
-### 2026
-#### January
-* [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
-
-### Undated
-* [curl's security.txt — promises to ridicule AI spammers](https://curl.se/.well-known/security.txt)
-
-## Legal
 
 ### 2024
 #### October
 * https://lawreview.syr.edu/update-in-copilot-copyright-claim-may-affect-future-challenges-of-artificial-intelligence/
+
 
 ## Tools
 * PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
