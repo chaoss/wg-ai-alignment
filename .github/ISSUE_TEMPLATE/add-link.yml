@@ -1,0 +1,62 @@
+name: Add a link
+description: Suggest a new link to add to the moderation resources list
+title: "Add link: "
+labels: []
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Link URL
+      placeholder: "https://"
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Link title/name
+      placeholder: Short descriptive name for the link
+    validations:
+      required: true
+
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section does this belong in?
+      options:
+        - Project AI Policy
+        - Organization/Company Policy
+        - Foundation AI Policy
+        - Blog Post
+        - News
+        - Tool
+        - Spam example
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: section_other
+    attributes:
+      label: If "Other", please describe
+      placeholder: Describe the section this belongs in
+
+  - type: checkboxes
+    id: duplicate_check
+    attributes:
+      label: Duplicate check
+      options:
+        - label: "I have checked this link is not already in [moderation/README.md](https://github.com/chaoss/wg-ai-alignment/blob/main/moderation/README.md)"
+          required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Date of post/article (if applicable)
+      placeholder: "e.g. 2025-07-14"
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context (optional)
+      description: Why is this link relevant? Any notes on what makes it a good example?
