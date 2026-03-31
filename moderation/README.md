@@ -34,6 +34,7 @@ This includes:
 * [pip-tools](https://pip-tools.rtfd.io/en/latest/contributing/#project-contribution-guidelines)
 * [Astropy](https://github.com/astropy/astropy-project/blob/main/policies/ai-policy.md)
 * [curl](https://curl.se/.well-known/security.txt)
+* [PROJ](https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
