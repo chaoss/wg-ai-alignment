@@ -7,7 +7,7 @@
 ## Why This Matters
 
 The open web and software commons were built without anticipating that everything created would be used to train AI systems. A range of initiatives is now working to establish reciprocity between AI developers and the communities whose work powers them.
-These efforts need community alignment to succeed. Technical standards without the participation of the people they are meant to serve lack legitimacy. And without legitimacy, they will not change behavior.
+
 This document maps the current landscape of preference signaling initiatives and where participation is possible based on the mapping from Stefano's paper./
 
 ---
