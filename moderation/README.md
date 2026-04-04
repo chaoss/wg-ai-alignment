@@ -2,16 +2,14 @@
 
 ## Awesome LLM Policy
 
-Looking to craft an LLM or Generative AI policy for your project?
+We aim to collect and share a variety of relevant discussion, writing and policy related to AI and open source. Please [open an issue](https://github.com/chaoss/wg-ai-alignment/issues) to add yours!
 
-Look no further than this repo!
+This includes:
+- Published AI policies from projects or organizations
+- Examples of the kinds of behavior AI policies are meant to prevent
+- Blog posts and news articles
 
-We aim to collect together a wide variety of examples of:
-- published AI policies from projects or organizations
-- examples of the kinds of behavior AI policies are meant to prevent
-- Other resources that may be helpful 
-
-### Project AI Policies
+### Current Project AI Policies
 * [Python (Devguide)](https://devguide.python.org/getting-started/generative-ai/)
 * [Zulip](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
 * [Ladybird Browser](https://github.com/LadybirdBrowser/ladybird/blob/master/CONTRIBUTING.md#on-usage-of-ai-and-llms)
@@ -34,6 +32,8 @@ We aim to collect together a wide variety of examples of:
 * [scikit-learn](https://github.com/scikit-learn/scikit-learn/blob/main/CODE_OF_CONDUCT.md#low-quality-and-ai-generated-contributions-policy)
 * [Matplotlib](https://matplotlib.org/devdocs/devel/contribute.html#restrictions-on-generative-ai-usage)
 * [pip-tools](https://pip-tools.rtfd.io/en/latest/contributing/#project-contribution-guidelines)
+* [Astropy](https://github.com/astropy/astropy-project/blob/main/policies/ai-policy.md)
+* [curl](https://curl.se/.well-known/security.txt)
 * [PROJ](https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst)
 
 ### Organization/Company Policies
@@ -44,44 +44,73 @@ We aim to collect together a wide variety of examples of:
 * [OpenInfra Foundation](https://openinfra.org/legal/ai-policy)
 * [Apache Software Foundation](https://www.apache.org/legal/generative-tooling.html)
 
-## Policy Frameworks
-
 ## Discussions
-* Fedora ([discussion](https://discussion.fedoraproject.org/t/ai-policy-in-fedora-wip/144297))
-* CHAOSS Augur ([discussion](https://github.com/chaoss/augur/issues/3371))
+
+### 2025
+#### January
 * SciPy ([discussion](https://discuss.scientific-python.org/t/a-policy-on-generative-ai-assisted-contributions/1702))
+
+#### February
+* Fedora ([discussion](https://discussion.fedoraproject.org/t/ai-policy-in-fedora-wip/144297))
+
+#### May
 * Ansible ([discussion](https://forum.ansible.com/t/ansible-ai-policy/42642))
+
+#### November
+* CHAOSS Augur ([discussion](https://github.com/chaoss/augur/issues/3371))
 * pip-tools ([discussion](https://github.com/jazzband/pip-tools/discussions/2278))
 
-### Github
-* ([discussion](https://github.com/community/maintainers/discussions/470#discussioncomment-12852461))
-* ([discussion](https://github.com/community/maintainers/discussions/470#discussioncomment-12390642))
-* ([discussion](https://github.com/community/maintainers/discussions/442#discussioncomment-12356408))
-* ([discussion](https://github.com/community/maintainers/discussions/646))
+### GitHub Maintainers Community Forum
+_(Private — access can be requested by joining the [GitHub Maintainers Community](https://maintainers.github.com/))_
+* [GitHub Maintainers Community Forum discussion #470 (comment)](https://github.com/community/maintainers/discussions/470#discussioncomment-12852461)
+* [GitHub Maintainers Community Forum discussion #470 (comment)](https://github.com/community/maintainers/discussions/470#discussioncomment-12390642)
+* [GitHub Maintainers Community Forum discussion #442 (comment)](https://github.com/community/maintainers/discussions/442#discussioncomment-12356408)
+* [GitHub Maintainers Community Forum discussion #646](https://github.com/community/maintainers/discussions/646)
 
 
-## Codes of Conduct (no specific AI mention)
+## Codes of Conduct
 * https://docs.ansible.com/ansible/latest/community/code_of_conduct.html
 
 
-## Blog Posts About AI
-* [Generative AI Policy Landscape in Open Source (RedMonk)](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/)
-* https://blog.val.town/vibe-code
-* https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/
+## Blog Posts & News
+
+### 2026
+#### January
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
+* [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
+
+### 2025
+#### December
 * https://www.redhat.com/en/blog/accelerating-open-source-development-ai
 * https://sunnydeveloper.com/ai-consent-for-open-communities/
 
-## Non AI blog posts
-* https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892
+#### September
 * https://duckalignment.academy/code-conduct-enforcement-planning/
 
-## News
-* [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
-* [curl's security.txt — promises to ridicule AI spammers](https://curl.se/.well-known/security.txt)
+#### July
+* https://blog.val.town/vibe-code
+* https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/
 
-## Legal
+#### February
+* https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892
+
+### 2024
+#### October
 * https://lawreview.syr.edu/update-in-copilot-copyright-claim-may-affect-future-challenges-of-artificial-intelligence/
+
+## Meta-Lists
+Other curated lists and surveys covering AI and open source:
+
+### 2026
+#### March
+* [Is AI killing open source software? - Reading list (Stormy Peters)](https://www.linkedin.com/pulse/ai-killing-open-source-software-reading-list-stormy-peters-mebfc)
+
+#### February
+* [Generative AI Policy Landscape in Open Source (RedMonk)](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/)
+
+#### Ongoing
+* [Another curated list of OS AI contribution policies](https://github.com/melissawm/open-source-ai-contribution-policies)
+
 
 ## Tools
 * PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
@@ -91,10 +120,12 @@ We aim to collect together a wide variety of examples of:
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
 * [Model Openness Framework Classes](https://arxiv.org/html/2403.13784v6#S4)
-* [Another curated list of OS AI contribution policies](https://github.com/melissawm/open-source-ai-contribution-policies)
 
 
 ## Responsible AI Contribution examples
+
+### 2025
+#### September
 * [Joshua Rogers' Curl contributions](https://mastodon.social/@bagder/115241241075258997)
 
 ## Spam examples
