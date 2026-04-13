@@ -37,7 +37,7 @@ This includes:
 * [PROJ](https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst)
 * [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
 * [Forgejo AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md)
-* [AI Coding Assistants documentation for Linux](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
+* [Linux AI Coding Assistants documentation](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
