@@ -35,6 +35,9 @@ This includes:
 * [Astropy](https://github.com/astropy/astropy-project/blob/main/policies/ai-policy.md)
 * [curl](https://curl.se/.well-known/security.txt)
 * [PROJ](https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst)
+* [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
+* [Forgejo AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md)
+* [AI Coding Assistants documentation for Linux](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ### Organization/Company Policies
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
@@ -43,6 +46,7 @@ This includes:
 * [Linux Foundation](https://www.linuxfoundation.org/legal/generative-ai)
 * [OpenInfra Foundation](https://openinfra.org/legal/ai-policy)
 * [Apache Software Foundation](https://www.apache.org/legal/generative-tooling.html)
+* [Advisory Board publishes Position Statement on AI in Standards Work (W3C)](https://www.w3.org/blog/2026/advisory-board-publishes-position-statement-on-ai-in-standards-work/)
 
 ## Discussions
 
