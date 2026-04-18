@@ -1,0 +1,86 @@
+name: Add a WG Proposal
+description: Pitch something we could work on together as a working group
+title: "Proposal: "
+labels: ["proposal"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Proposal title
+      placeholder: Short name for this proposal
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: A brief summary of what this proposal is about
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem related to AI alignment needs solving here?
+    validations:
+      required: true
+
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Hypothesis
+      description: How might this problem be tackled? Guesses and early thinking welcome.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why_now
+    attributes:
+      label: Why now?
+      description: Is there a timely trigger — an industry moment, policy window, upcoming event, or deadline?
+
+  - type: textarea
+    id: related_efforts
+    attributes:
+      label: Related efforts
+      description: Other projects, initiatives, or groups working on something similar (if any)
+
+  - type: textarea
+    id: jobs_to_be_done
+    attributes:
+      label: Jobs to be done
+      description: Rough guess at what tasks or work this would involve — early thinking is fine
+    validations:
+      required: true
+
+  - type: textarea
+    id: deliverable
+    attributes:
+      label: Desired output or deliverable
+      description: What would "done" look like? (e.g. a document, framework, dataset, tooling, recommendation)
+
+  - type: textarea
+    id: stakeholders
+    attributes:
+      label: Others who would need to be involved
+      description: People, teams, or communities outside this WG whose input or participation would matter
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attachments
+      description: Drag and drop files here, or paste links to any supporting materials (slides, docs, diagrams, etc.)
+
+  - type: dropdown
+    id: commitment
+    attributes:
+      label: Your role in this proposal
+      description: Are you willing to champion this effort?
+      options:
+        - "I'd like to lead or co-lead this"
+        - "I can contribute but need a lead"
+        - "Just surfacing the idea — someone else should drive"
+    validations:
+      required: true
