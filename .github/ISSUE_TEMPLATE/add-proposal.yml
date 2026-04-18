@@ -67,6 +67,17 @@ body:
       label: Others who would need to be involved
       description: People, teams, or communities outside this WG whose input or participation would matter
 
+  - type: dropdown
+    id: timeframe
+    attributes:
+      label: Estimated timeframe
+      description: How long do you think it would take to reach a first version or prototype?
+      options:
+        - "Less than 1 month"
+        - "1–3 months"
+        - "3–6 months"
+        - "Not sure yet"
+
   - type: textarea
     id: attachments
     attributes:
