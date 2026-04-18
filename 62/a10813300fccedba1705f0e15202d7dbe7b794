@@ -1,0 +1,14 @@
+.github/ISSUE_TEMPLATE/add-proposal.yml
+  h_25392632ab7b53 1-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "62a10813300fccedba1705f0e15202d7dbe7b794",
+  "prompts": {},
+  "humans": {
+    "h_25392632ab7b53": {
+      "author": "sunnydeveloper"
+    }
+  }
+}
