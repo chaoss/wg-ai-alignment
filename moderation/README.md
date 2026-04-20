@@ -15,6 +15,7 @@ This includes:
 * [Ladybird Browser](https://github.com/LadybirdBrowser/ladybird/blob/master/CONTRIBUTING.md#on-usage-of-ai-and-llms)
 * [Python attrs](https://github.com/python-attrs/attrs/commit/6c54145aac47b60a4c0838acead291ae4a298771)
 * [Redox OS](https://gitlab.redox-os.org/redox-os/redox/-/commit/ea438d84aa29db70d73ea531b25ca4c6df78343a)
+* [Linux Kernel](https://lore.kernel.org/ksummit/20251114183528.1239900-1-dave.hansen@linux.intel.com/)
 * [Servo](https://book.servo.org/contributing/getting-started.html#ai-contributions) ([discussion](https://github.com/servo/servo/discussions/36379))
 * [Gentoo](https://wiki.gentoo.org/wiki/Project:Council/AI_policy)
 * Kubernetes ([discussion 1](https://github.com/kubernetes/steering/issues/291), [discussion 2](https://github.com/kubernetes/community/issues/8558))
@@ -34,19 +35,15 @@ This includes:
 * [Astropy](https://github.com/astropy/astropy-project/blob/main/policies/ai-policy.md)
 * [curl](https://curl.se/.well-known/security.txt)
 * [PROJ](https://github.com/OSGeo/PROJ/blob/master/docs/source/community/ai_tool_policy.rst)
+* [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
 * [Forgejo AI Agreement](https://codeberg.org/forgejo/governance/src/branch/main/AIAgreement.md)
-* [KeePassXC](https://github.com/keepassxreboot/keepassxc/blob/develop/.github/CONTRIBUTING.md#using-ai)
-* [Gitea](https://github.com/go-gitea/gitea/blob/main/CONTRIBUTING.md#ai-contribution-policy)
-* [KDE GSoC AI Policy](https://community.kde.org/GSoC#Regarding_AI_usage)
+* [Linux AI Coding Assistants documentation](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 
 ### Organization/Company Policies
-* [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 
 ### Foundation AI Policies
 * [Linux Foundation](https://www.linuxfoundation.org/legal/generative-ai)
-  * [Linux Kernel](https://lore.kernel.org/ksummit/20251114183528.1239900-1-dave.hansen@linux.intel.com/)
-  * [Linux AI Coding Assistants documentation](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 * [OpenInfra Foundation](https://openinfra.org/legal/ai-policy)
 * [Apache Software Foundation](https://www.apache.org/legal/generative-tooling.html)
 * [Advisory Board publishes Position Statement on AI in Standards Work (W3C)](https://www.w3.org/blog/2026/advisory-board-publishes-position-statement-on-ai-in-standards-work/)

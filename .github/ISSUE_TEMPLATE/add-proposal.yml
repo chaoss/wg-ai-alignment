@@ -3,6 +3,14 @@ description: Pitch something we could work on together as a working group
 title: "Proposal: "
 labels: ["proposal"]
 body:
+  - type: input
+    id: title
+    attributes:
+      label: Proposal title
+      placeholder: Short name for this proposal
+    validations:
+      required: true
+
   - type: textarea
     id: description
     attributes:
