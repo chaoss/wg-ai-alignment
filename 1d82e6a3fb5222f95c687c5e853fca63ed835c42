@@ -1,0 +1,14 @@
+moderation/README.md
+  h_25392632ab7b53 38-40,43,48-49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.0",
+  "base_commit_sha": "1d82e6a3fb5222f95c687c5e853fca63ed835c42",
+  "prompts": {},
+  "humans": {
+    "h_25392632ab7b53": {
+      "author": "sunnydeveloper"
+    }
+  }
+}
