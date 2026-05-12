@@ -1,0 +1,14 @@
+CONTRIBUTING.md
+  h_2d84de832ff5e9 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "496cca15381d56a61d43dbba11eee3e74b7c5acf",
+  "prompts": {},
+  "humans": {
+    "h_2d84de832ff5e9": {
+      "author": "sunnydeveloper <emma.irwin@gmail.com>"
+    }
+  }
+}
