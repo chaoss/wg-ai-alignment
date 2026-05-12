@@ -4,7 +4,7 @@ Welcome! We are glad that you want to contribute to the AI Alignment Working Gro
 
 Please review the [CHAOSS CONTRIBUTING.md](http://github.com/chaoss/community/CONTRIBUTING.md) for general ways to contribute to CHAOSS; this document provides context specific to the AI Alignment working group.
 
-Join the [AI Alignment Slack Channel](https://chaoss.community/kb-getting-started/) #wg-ai-alignment channel or submit pull requests if you'd like to reach out to the community!
+Join the [AI Alignment Slack Channel](https://chaoss-workspace.slack.com/archives/C09GR3W4K4J) #wg-ai-alignment channel or submit pull requests if you'd like to reach out to the community!
 
 ## Ways to Contribute
 
