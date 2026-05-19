@@ -38,8 +38,10 @@ This includes:
 * [KeePassXC](https://github.com/keepassxreboot/keepassxc/blob/develop/.github/CONTRIBUTING.md#using-ai)
 * [Gitea](https://github.com/go-gitea/gitea/blob/main/CONTRIBUTING.md#ai-contribution-policy)
 * [KDE GSoC AI Policy](https://community.kde.org/GSoC#Regarding_AI_usage)
+* [Teamtype Generative AI/LLM policy](https://github.com/teamtype/teamtype/blob/main/CONTRIBUTING.md#generative-aillm-policy)
 
 ### Organization/Company Policies
+* [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
 * [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
 * [Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 
