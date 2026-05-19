@@ -11,9 +11,10 @@ Join the [AI Alignment Slack Channel](https://chaoss-workspace.slack.com/archive
 We welcome many different types of contributions including:
 
 * Metrics definitions
+* Bring your ideas related to AI Alignment for OSS and invite others to work with you!
 * Issue Triage
 * Speaking about our work at conferences
-* Inviting others to join (especially perspectives not represented here)
+* Inviting others to join (especially perspectives not represented here) - building bridges between this work and other communities is critical!
 * Writing about our work (blogging, posting)
 * Sharing relevant news articles, posts, research (etc) anything that helps us in the context of open source, AI and alignment.  This can be done in Slack or via the issue template for links.
 
