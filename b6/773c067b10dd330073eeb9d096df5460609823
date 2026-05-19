@@ -1,0 +1,24 @@
+moderation/README.md
+  s_d4ce399654fe1c::t_b56d8a154b4716 41,44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "b6773c067b10dd330073eeb9d096df5460609823",
+  "prompts": {},
+  "humans": {
+    "h_2d84de832ff5e9": {
+      "author": "sunnydeveloper <emma.irwin@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_d4ce399654fe1c": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "6d7b0b63-a159-48aa-866a-7d679660b4dc",
+        "model": "gpt-5-mini"
+      },
+      "human_author": "sunnydeveloper <emma.irwin@gmail.com>"
+    }
+  }
+}
