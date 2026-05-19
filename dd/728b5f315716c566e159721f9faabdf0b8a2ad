@@ -1,0 +1,14 @@
+README.md
+  h_2d84de832ff5e9 10-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "dd728b5f315716c566e159721f9faabdf0b8a2ad",
+  "prompts": {},
+  "humans": {
+    "h_2d84de832ff5e9": {
+      "author": "sunnydeveloper <emma.irwin@gmail.com>"
+    }
+  }
+}
