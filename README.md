@@ -7,3 +7,12 @@ AI alignment is the effort to design AI systems so their goals, behaviors, and d
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to participate and contribute.
 
 
+# Context for this Work: Resources on AI Safety, Alignment, and Ethics
+
+Please add other relevant resources as you come across them.
+
+* [AI Alignment (Wikipedia definition)](https://en.wikipedia.org/wiki/AI_alignment)
+* [What is AI Alignment?](https://research.ibm.com/blog/what-is-alignment-ai)
+* [Alignment with who? How AI safety can build on open source scaffolding](https://sunnydeveloper.com/alignment-with-who-how-ai-safety-can-build-on-open-source-scaffolding/)
+* [Exploring AI ethics in global contexts: a culturally responsive, psychologically realist approach](https://link.springer.com/article/10.1007/s43681-025-00821-6)
+* 
