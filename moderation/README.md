@@ -39,6 +39,7 @@ This includes:
 * [Gitea](https://github.com/go-gitea/gitea/blob/main/CONTRIBUTING.md#ai-contribution-policy)
 * [KDE GSoC AI Policy](https://community.kde.org/GSoC#Regarding_AI_usage)
 * [Teamtype Generative AI/LLM policy](https://github.com/teamtype/teamtype/blob/main/CONTRIBUTING.md#generative-aillm-policy)
+* [Godot AI policy](https://contributing.godotengine.org/en/latest/pull_requests/pull_request_guidelines.html#ai-assisted-contributions) ([announcement](https://godotengine.org/article/contribution-policy-2026/))
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
