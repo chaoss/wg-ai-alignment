@@ -9,6 +9,10 @@ This includes:
 - Examples of the kinds of behavior AI policies are meant to prevent
 - Blog posts and news articles
 
+## Related 
+
+* [Machine readable preferance signaling](https://datatracker.ietf.org/doc/draft-vaughan-machine-readability/)
+
 ### Current Project AI Policies
 * [Python (Devguide)](https://devguide.python.org/getting-started/generative-ai/)
 * [Zulip](https://github.com/zulip/zulip/blob/main/CONTRIBUTING.md#ai-use-policy-and-guidelines)
