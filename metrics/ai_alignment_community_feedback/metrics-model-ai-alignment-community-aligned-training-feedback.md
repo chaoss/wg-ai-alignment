@@ -33,7 +33,7 @@ Public-input precedents exist (Collective Constitutional AI, the Alignment Assem
 
 ### Something builders and communities care about (value exchange)
 
-*influenced Rohin Shah talk - How to Theorize So Empiricists Will Listen.
+*influenced Rohin Shah talk - [How to Theorize So Empiricists Will Listen](https://www.youtube.com/watch?v=BWHbxv5kxLI).
 
 Feedback is a translation and the value must carry both ways, from community to the builder and back. The table below describes the value to each.
 
@@ -90,19 +90,11 @@ Note: this is not unlike the translations we already do in open source to descri
 
 This model contains three metrics: Method of Feedback, Effectiveness of Feedback, and Efficiency of Feedback. Indicators across all three are split into two tiers: a detectable-today core that can be measured now, and a standards-we're-asking-for layer that becomes measurable only once providers adopt a short list of practices.
 
-### AI Feedback Governance
+### [AI Feedback Governance](ai-feedback-governance.md)
 
 - **Description.** Whether the community has policy for when and how feedback to AI builders happens: a decided, written expectation that feedback is something this project does, through which path, triggered by what, and decided by whom.
 - **Objectives.** Establish that feedback is governed by policy rather than left to whoever happens to speak up. Effective feedback governance does three things: it provides a consensus path for reaching a shared community position; it provides a non-consensus path (through the Code of Conduct or another confidential route) for feedback that cannot or should not wait for consensus, such as harm or safety; and it routes through the community's own leadership first, because the issue is often how AI is being used within the project rather than the model itself. Governance decides whether a matter is resolved internally or escalated to the builder.
 - **Implementation.** See data collection strategies section.
-
-| Indicator | Implementation | Measurable now? |
-| --- | --- | --- |
-| Feedback policy exists | Check whether the project has written policy for when and how feedback to AI builders happens (who decides, through which path, triggered by what) | Partly |
-| Consensus path defined | Check for a defined way to reach a shared community position to give feedback on behalf of the project | Partly |
-| Non-consensus / CoC path defined | Check for a defined route (Code of Conduct or other confidential means) for feedback that cannot wait for consensus, such as harm or safety | Partly |
-| Routes through leadership first | Check whether policy sends feedback through the community's decision-makers before it leaves the project | Partly |
-| Distinguishes internal AI-use from model issues | Check whether governance separates 'how AI is used here' (resolved internally) from 'the model misbehaved' (escalated to the builder) | Partly |
 
 ### [Feedback Channel Quality](feedback-channel-quality.md)
 
@@ -110,17 +102,38 @@ This model contains three metrics: Method of Feedback, Effectiveness of Feedback
 - **Objectives.** Discover whether a usable feedback channel exists at all, its accessibility for community and model builders, categories of feedback accepted (as per value lists above) and other SLA details.
 - **Implementation.** See data collection strategies section.
 
-### [Effectiveness of Feedback](effectiveness-of-feedback.md)
+### Effectiveness of Feedback
 
 - **Description.** Determine whether or not feedback was effectively resolved to the satisfaction of governance agreement (for community and/or model builder).
 - **Objectives.** Whether feedback was in scope and if so - did it produce an observable change (in model behavior, policy, attribution, compensation, reciprocal contribution, or community-facing tooling), and whether that change persists.
 - **Implementation.** See data collection strategies section.
 
-### [Efficiency of Feedback (community)](efficiency-of-feedback.md)
+Existing CHAOSS metrics to draw on: [Change Request Acceptance Ratio](https://www.chaoss.community/kb/metric-change-request-acceptance-ratio/), [Change Requests Accepted](https://www.chaoss.community/kb/metric-change-requests-accepted/), [Time to Close](https://www.chaoss.community/kb/metric-time-to-close/), [Change Requests Duration](https://www.chaoss.community/kb/metric-change-requests-duration/) and [Review Cycle Duration within a Change Request](https://www.chaoss.community/kb/metric-review-cycle-duration-within-a-change-request/), [Change Request Closure Ratio](https://www.chaoss.community/kb/metric-change-request-closure-ratio/)
+
+| Indicator | Implementation | Measurable now? |
+| --- | --- | --- |
+| Model behavior changed | Re-test the behavior against the model; read changelogs, model and system cards | Yes |
+| Policy changed | Review provider policy pages, contribution rules, and model-card updates | Yes |
+| Community posture changed | Track the community's own policy, bounty, or moderation changes after the outcome | Yes |
+| Change persisted | Re-test across later releases to confirm it didn't silently revert | Yes |
+| Attribution given | Look for the change credited to community feedback in changelogs or cards | Not yet |
+| Compensation | Public records and self-report: grant, contract, sponsorship, or paid time | Not yet |
+| Reciprocal contribution | Track provider contributions back to the project (code, fixes, infrastructure, roadmap seat) | Not yet |
+
+### Efficiency of Feedback (community)
 
 - **Description.** The cost of the loop to each side. On the community side, the effort to give feedback and the wait for a response. On the model-builder side, the effort and cost to respond and implement. Neither side's time is free.
 - **Objectives.** Capture what the loop costs both communities and builders, so proportionality can be judged. A channel that technically exists but is expensive for a community to use, or slow and costly for a provider to answer, is not a working loop.
 - **Implementation.** See data collection strategies section.
+
+Existing CHAOSS metrics to draw on: [Time to First Response](https://www.chaoss.community/kb/metric-time-to-first-response/), [Issue Response Time](https://www.chaoss.community/kb/metric-issue-response-time/), [Labor Investment](https://www.chaoss.community/kb/metric-labor-investment/), [Collaboration Platform Activity](https://www.chaoss.community/kb/metric-collaboration-platform-activity/) and Inclusivity
+
+| Indicator | Cost to | Implementation | Measurable now? |
+| --- | --- | --- | --- |
+| Effort to give feedback | Community | Classify effort: single message, incident report, blog post, or multi-project letter | Yes |
+| Wait for a response | Community | Timestamp from submission to first response (the time a community waits) | Yes |
+| Escalation count | Community | Count how many times feedback had to be repeated or escalated | Yes |
+| Provider effort & cost | Provider | Infer from public timing (time to acknowledgment, time to change, whether it shipped); otherwise provider self-report | Not yet |
 
 ## Data collection strategies
 
