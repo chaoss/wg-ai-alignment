@@ -4,13 +4,11 @@
 
 ## Overview
 
+This metric is part of the [AI Alignment - Community Aligned Training (Feedback)](metrics-model-ai-alignment-community-aligned-training-feedback.md) metrics model, which measures whether a community can give feedback to a model builder and see its impact, as the means by which alignment with that community increases.
+
 Determine the quality of a channel in providing a feedback loop between open source communities and model builders.
 
 Discover whether a usable feedback channel exists at all, its accessibility for community and model builders, categories of feedback accepted (as per the value exchange table in the metrics model) and other SLA details.
-
-Existing CHAOSS metrics to draw on: [Chat Platform Inclusivity](https://www.chaoss.community/kb/metric-chat-platform-inclusivity/), [Psychological Safety](https://www.chaoss.community/kb/metric-psychological-safety/), [Code of Conduct for a Project](https://www.chaoss.community/kb/metric-code-of-conduct-for-a-project/), [Documentation Discoverability](https://www.chaoss.community/kb/metric-documentation-discoverability/)
-
-## Want to Know More?
 
 | Indicator | Implementation | Measurable now? |
 | --- | --- | --- |
@@ -20,6 +18,10 @@ Existing CHAOSS metrics to draw on: [Chat Platform Inclusivity](https://www.chao
 | Confidential intake exists | Check for a path for harm reports without public disclosure or consensus, with quality conferred by downstream triage | Partly |
 | CoC covers AI harms (proxy) | Check whether the project's Code-of-Conduct scope covers AI-related harm, with a route to the provider | Partly |
 | Documented intake commitment | Look for a published SLA, scope, who reviews, and an escalation path | Not yet |
+
+Existing CHAOSS metrics to draw on: [Chat Platform Inclusivity](https://www.chaoss.community/kb/metric-chat-platform-inclusivity/), [Psychological Safety](https://www.chaoss.community/kb/metric-psychological-safety/), [Code of Conduct for a Project](https://www.chaoss.community/kb/metric-code-of-conduct-for-a-project/), [Documentation Discoverability](https://www.chaoss.community/kb/metric-documentation-discoverability/)
+
+## Want to Know More?
 
 ### Data Collection Strategies
 
@@ -57,8 +59,6 @@ Known methods (as of this writing) for collecting data related to this metric.
 Add your name if you contributed
 
 ## Additional Information
-
-Part of the metrics model [AI Alignment - Community Aligned Training (Feedback)](metrics-model-ai-alignment-community-aligned-training-feedback.md).
 
 To edit this metric please submit a Change Request here: (replace with correct link once metric is added to a focus area repo)
 

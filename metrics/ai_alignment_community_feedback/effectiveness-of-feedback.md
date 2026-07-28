@@ -4,13 +4,11 @@
 
 ## Overview
 
+This metric is part of the [AI Alignment - Community Aligned Training (Feedback)](metrics-model-ai-alignment-community-aligned-training-feedback.md) metrics model, which measures whether a community can give feedback to a model builder and see its impact, as the means by which alignment with that community increases.
+
 Determine whether or not feedback was effectively resolved to the satisfaction of governance agreement (for community and/or model builder).
 
 Whether feedback was in scope and if so - did it produce an observable change (in model behavior, policy, attribution, compensation, reciprocal contribution, or community-facing tooling), and whether that change persists.
-
-Existing CHAOSS metrics to draw on: [Change Request Acceptance Ratio](https://www.chaoss.community/kb/metric-change-request-acceptance-ratio/), [Change Requests Accepted](https://www.chaoss.community/kb/metric-change-requests-accepted/), [Time to Close](https://www.chaoss.community/kb/metric-time-to-close/), [Change Requests Duration](https://www.chaoss.community/kb/metric-change-requests-duration/) and [Review Cycle Duration within a Change Request](https://www.chaoss.community/kb/metric-review-cycle-duration-within-a-change-request/), [Change Request Closure Ratio](https://www.chaoss.community/kb/metric-change-request-closure-ratio/)
-
-## Want to Know More?
 
 | Indicator | Implementation | Measurable now? |
 | --- | --- | --- |
@@ -21,6 +19,10 @@ Existing CHAOSS metrics to draw on: [Change Request Acceptance Ratio](https://ww
 | Attribution given | Look for the change credited to community feedback in changelogs or cards | Not yet |
 | Compensation | Public records and self-report: grant, contract, sponsorship, or paid time | Not yet |
 | Reciprocal contribution | Track provider contributions back to the project (code, fixes, infrastructure, roadmap seat) | Not yet |
+
+Existing CHAOSS metrics to draw on: [Change Request Acceptance Ratio](https://www.chaoss.community/kb/metric-change-request-acceptance-ratio/), [Change Requests Accepted](https://www.chaoss.community/kb/metric-change-requests-accepted/), [Time to Close](https://www.chaoss.community/kb/metric-time-to-close/), [Change Requests Duration](https://www.chaoss.community/kb/metric-change-requests-duration/) and [Review Cycle Duration within a Change Request](https://www.chaoss.community/kb/metric-review-cycle-duration-within-a-change-request/), [Change Request Closure Ratio](https://www.chaoss.community/kb/metric-change-request-closure-ratio/)
+
+## Want to Know More?
 
 ### Data Collection Strategies
 
@@ -62,8 +64,6 @@ Known methods (as of this writing) for collecting data related to this metric.
 Add your name if you contributed
 
 ## Additional Information
-
-Part of the metrics model [AI Alignment - Community Aligned Training (Feedback)](metrics-model-ai-alignment-community-aligned-training-feedback.md).
 
 To edit this metric please submit a Change Request here: (replace with correct link once metric is added to a focus area repo)
 
