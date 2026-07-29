@@ -18,10 +18,12 @@ AI models are built on the labor of open source communities in two distinct ways
 
 This metric treats community feedback as a way to center the values, labour and intention of open communities AI is built on, using empirical language we hope model builders will respond to. The specific metrics described within are:
 
-- AI feedback governance
-- Feedback channel quality
+- [AI feedback governance](ai-feedback-governance.md)
+- [Feedback channel quality](feedback-channel-quality.md)
 - Efficiency (of the process)
 - Effectiveness (measures of value to model builders and communities)
+
+**NOTE**: While this metric model focuses on improvement to the model itselff, alternate solutions including open weight are potential solutions for alignment. Additionally, [despite outreach](https://sunnydeveloper.com/be-the-first/), we have not yet found a model builder willing to engage with, and prototype community alignment - we hope this model can be part of advocacy for encouraging such partnerships.
 
 ### What we want to measure
 
