@@ -95,7 +95,11 @@ This model contains three metrics: Method of Feedback, Effectiveness of Feedback
 ### [AI Feedback Governance](ai-feedback-governance.md)
 
 - **Description.** Whether the community has policy for when and how feedback to AI builders happens: a decided, written expectation that feedback is something this project does, through which path, triggered by what, and decided by whom.
-- **Objectives.** Establish that feedback is governed by policy rather than left to whoever happens to speak up. Effective feedback governance does three things: it provides a consensus path for reaching a shared community position; it provides a non-consensus path (through the Code of Conduct or another confidential route) for feedback that cannot or should not wait for consensus, such as harm or safety; and it routes through the community's own leadership first, because the issue is often how AI is being used within the project rather than the model itself. Governance decides whether a matter is resolved internally or escalated to the builder.
+- **Objectives.** Establish that feedback is governed by policy rather than loudest voices. Effective feedback governance does three things: 
+
+1. Provides a consensus path for reaching a shared community position; 
+2. Provides a non-consensus path (through the Code of Conduct or another confidential route) for feedback that cannot or should not wait for consensus, such as harm or safety; 3. Routes through the community's governance processes first, because the issue is often how AI is being used within the project rather than the model itself. Governance decides whether a matter is resolved internally or escalated to the builder.
+
 - **Implementation.** See data collection strategies section.
 
 ### [Feedback Channel Quality](feedback-channel-quality.md)
