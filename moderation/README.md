@@ -44,6 +44,14 @@ This includes:
 * [KDE GSoC AI Policy](https://community.kde.org/GSoC#Regarding_AI_usage)
 * [Teamtype Generative AI/LLM policy](https://github.com/teamtype/teamtype/blob/main/CONTRIBUTING.md#generative-aillm-policy)
 * [Godot AI policy](https://contributing.godotengine.org/en/latest/pull_requests/pull_request_guidelines.html#ai-assisted-contributions) ([announcement](https://godotengine.org/article/contribution-policy-2026/))
+* Agda ([discussion](https://github.com/agda/agda/pull/8456))
+* [GCC AI Policy](https://gcc.gnu.org/ai-policy.html)
+* Haiku OS ([discussion](https://review.haiku-os.org/c/haiku/+/11180))
+* [yt-dlp AI Policy](https://github.com/yt-dlp/yt-dlp/blob/master/.NO_AI/README.md)
+* [GDAL AI Policy](https://gdal.org/en/stable/community/ai_tool_policy.html)
+* QGIS ([discusion/proposal](https://github.com/qgis/QGIS-Enhancement-Proposals/blob/master/qep-408-ai-tool-policy.md))
+* [NLNet Labs LLM policy](https://nlnetlabs.nl/llm-policy/)
+
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
