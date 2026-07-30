@@ -41,21 +41,21 @@ Feedback is a translation and the value must carry both ways, from community to 
 
 Note: this is not unlike the translations we already do in open source to describe 'business value' to business - like hiring pipelines, security, reduced engineering capacity etc.
 
-◆ = verifiable, re-testable subset
+Re-testable outcomes are the core evidence layer for this metric. These are the cases where the score only improves when a provider changes behavior, and the community can verify that change directly. They should be treated as the main evidence, not as a side note in a filter row.
 
-| Lean | Feedback type | Why community cares | Why builders care |
-| --- | --- | --- | --- |
-| Both care | ◆ Quality of contribution | Low-quality, high-volume, or confusing AI output wastes maintainer time | Their tool producing low-value output on repos they depend on |
-| Both care | ◆ Accuracy / factuality | Wrong info about their project | Hallucination is a tracked quality metric |
-| Both care | Safety | Harm in their spaces | High priority: misuse, liability, public trust |
-| Both care | Bias / discriminatory | Harm to people | Eval target, reputational, employment and legal risk |
-| Both care | Privacy | Exposure of contributors' data | Legal and compliance risk |
-| Both care | ◆ Tooling / agent behavior | Rate limits, spam, ignoring robots.txt or opt-outs | Their agents misbehaving in workflows they rely on |
-| Both care | Environmental impact | Model meets community standards | Brand, ESG reporting, public scrutiny of AI energy use |
-| Both care | Accessibility | Inclusive participation | Compliance requirements, procurement, brand reputation |
-| Leans community | Attribution / provenance | Credit and agency for their work | Mostly license and legal risk |
-| Leans community | Licensing / compliance | Their license terms respected | Compliance pressure, not desire |
-| Leans community | Financial cost | Cost to give feedback and evaluate fixes | Not their cost, so easily ignored |
+| Lean | Feedback type | Evidence standard | Why community cares | Why builders care |
+| --- | --- | --- | --- | --- |
+| Both care | Re-testable: Quality of contribution | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Low-quality, high-volume, or confusing AI output wastes maintainer time | Their tool producing low-value output on repos they depend on |
+| Both care | Re-testable: Accuracy / factuality | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Wrong info about their project | Hallucination is a tracked quality metric |
+| Both care | Safety | Incident report or policy evidence | Harm in their spaces | High priority: misuse, liability, public trust |
+| Both care | Bias / discriminatory | Incident report or policy evidence | Harm to people | Eval target, reputational, employment and legal risk |
+| Both care | Privacy | Incident report or policy evidence | Exposure of contributors' data | Legal and compliance risk |
+| Both care | Re-testable: Tooling / agent behavior | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Rate limits, spam, ignoring robots.txt or opt-outs | Their agents misbehaving in workflows they rely on |
+| Both care | Environmental impact | Incident report or public evidence | Model meets community standards | Brand, ESG reporting, public scrutiny of AI energy use |
+| Both care | Accessibility | Incident report or policy evidence | Inclusive participation | Compliance requirements, procurement, brand reputation |
+| Leans community | Attribution / provenance | Attribution record or policy evidence | Credit and agency for their work | Mostly license and legal risk |
+| Leans community | Licensing / compliance | Policy or compliance evidence | Their license terms respected | Compliance pressure, not desire |
+| Leans community | Financial cost | Cost report or policy evidence | Cost to give feedback and evaluate fixes | Not their cost, so easily ignored |
 
 ## User Stories
 
@@ -114,14 +114,14 @@ This model contains three metrics: Method of Feedback, Effectiveness of Feedback
 - **Objectives.** Whether feedback was in scope and if so - did it produce an observable change (in model behavior, policy, attribution, compensation, reciprocal contribution, or community-facing tooling), and whether that change persists.
 - **Implementation.** See data collection strategies section.
 
-Existing CHAOSS metrics to draw on: [Change Request Acceptance Ratio](https://www.chaoss.community/kb/metric-change-request-acceptance-ratio/), [Change Requests Accepted](https://www.chaoss.community/kb/metric-change-requests-accepted/), [Time to Close](https://www.chaoss.community/kb/metric-time-to-close/), [Change Requests Duration](https://www.chaoss.community/kb/metric-change-requests-duration/) and [Review Cycle Duration within a Change Request](https://www.chaoss.community/kb/metric-review-cycle-duration-within-a-change-request/), [Change Request Closure Ratio](https://www.chaoss.community/kb/metric-change-request-closure-ratio/)
+Where possible the primary instrument should be a re-testable outcome rather than a provider self-report. For the re-testable subset, the preferred instrument is a shared benchmark or a repeatable re-test of the same issue against the provider. Provider-published changelogs, model cards, and system cards are supporting evidence rather than the core measure.
 
 | Indicator | Implementation | Measurable now? |
 | --- | --- | --- |
-| Model behavior changed | Re-test the behavior against the model; read changelogs, model and system cards | Yes |
+| Model behavior changed | Run a shared benchmark or repeat the same prompt against the model to verify the behavior changed; use provider changelogs and model/system cards as supporting evidence | Yes |
 | Policy changed | Review provider policy pages, contribution rules, and model-card updates | Yes |
 | Community posture changed | Track the community's own policy, bounty, or moderation changes after the outcome | Yes |
-| Change persisted | Re-test across later releases to confirm it didn't silently revert | Yes |
+| Change persisted | Re-test after the claimed change to confirm the issue stays resolved | Yes |
 | Attribution given | Look for the change credited to community feedback in changelogs or cards | Not yet |
 | Compensation | Public records and self-report: grant, contract, sponsorship, or paid time | Not yet |
 | Reciprocal contribution | Track provider contributions back to the project (code, fixes, infrastructure, roadmap seat) | Not yet |
@@ -131,8 +131,6 @@ Existing CHAOSS metrics to draw on: [Change Request Acceptance Ratio](https://ww
 - **Description.** The cost of the loop to each side. On the community side, the effort to give feedback and the wait for a response. On the model-builder side, the effort and cost to respond and implement. Neither side's time is free.
 - **Objectives.** Capture what the loop costs both communities and builders, so proportionality can be judged. A channel that technically exists but is expensive for a community to use, or slow and costly for a provider to answer, is not a working loop.
 - **Implementation.** See data collection strategies section.
-
-Existing CHAOSS metrics to draw on: [Time to First Response](https://www.chaoss.community/kb/metric-time-to-first-response/), [Issue Response Time](https://www.chaoss.community/kb/metric-issue-response-time/), [Labor Investment](https://www.chaoss.community/kb/metric-labor-investment/), [Collaboration Platform Activity](https://www.chaoss.community/kb/metric-collaboration-platform-activity/) and Inclusivity
 
 | Indicator | Cost to | Implementation | Measurable now? |
 | --- | --- | --- | --- |
@@ -150,13 +148,13 @@ Known methods (as of this writing) for collecting data related to metrics.
 | Channel exists | Manual audit of provider sites, repos, docs, foundation channels | Partial. Public channels found by audit; private arrangements unknown |
 | Reachable | Read stated requirements; community self-report on real usability | Partial. Requirements visible; usability needs community reporting |
 | Governance behind signal | Read project decision process / consensus records where published | Partial. Visible where projects document governance |
-| Model behavior changed | Re-test against the model; read changelogs, model & system cards | Partial. Visible in changelogs and testing; unknown under silent retraining |
+| Model behavior changed | Shared benchmark run plus targeted re-tests against the model; use changelogs, model & system cards as supplementary evidence | Partial. Visible in changelogs and testing; unknown under silent retraining |
 | Policy changed | Review provider policy pages, contribution rules, model-card updates | Detectable when public |
 | Community governance changed | Track the community's own policy, bounty, or moderation changes | Detectable; it's the community's own record |
 | Attribution given | Look for change credited to community feedback in changelogs / cards | Unknown. Providers rarely attribute |
 | Compensation | Public records and self-report: grant, contract, sponsorship, paid time | Partial. Public funding detectable; private needs self-report |
 | Reciprocal contribution | Track provider contributions back to the project (code, fixes, infra) | Partial. Public detectable; informal unknown |
-| Change persisted | Re-test across later releases to confirm no silent revert | Partial. Needs ongoing testing and version disclosure |
+| Change persisted | Re-test after the change to confirm the issue remains resolved | Partial. Needs ongoing testing and version disclosure |
 | Effort to give feedback | Classify: single message, incident report, blog post, multi-project letter | Partial. Public visible; private needs self-report |
 | Time to response | Timestamp from submission to first response | Partial. Public visible; private needs self-report |
 | Escalation count | How many times feedback was repeated or escalated | Partial. Visible when public |
@@ -252,6 +250,7 @@ Be the first open model builder to demonstrate alignment with open source commun
 - Coraline Ada Ehmke
 - Justin Wheeler
 - Adrian Edwards
+- Andrew Nesbitt
 
 Add your name if you contributed
 
