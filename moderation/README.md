@@ -100,6 +100,11 @@ _(Private — access can be requested by joining the [GitHub Maintainers Communi
 #### January
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
 * [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
+  
+#### March
+* https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
+* https://2ndbreakfast.audreywatters.com/there-is-no-human-centered-ai/
+
 
 ### 2025
 #### December
