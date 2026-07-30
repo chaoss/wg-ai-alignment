@@ -71,11 +71,11 @@ Governance is only part of the picture. Communities are actively writing and rew
 
 ## Related Metrics Models
 
-- [AI Alignment - Community Aligned Training (Feedback)](../ai-alignment-community-feedback/metrics-model-ai-alignment-community-aligned-training-feedback.md) — measures whether a community can give feedback to a model builder and see its impact, as the means by which alignment with that community increases. Where this model measures use a community consents to, that model measures the loop back to the builder.
+- [AI Alignment - Community Aligned Training (Feedback)](../ai-alignment-community-feedback/metric-model-ai-alignment-community-aligned-training-feedback.md) — measures whether a community can give feedback to a model builder and see its impact, as the means by which alignment with that community increases. That model covers feedback to the builder; this one covers AI use inside the community.
 
 ## Metrics in the Metrics Model
 
-This model contains five metrics. Together they cover what a community has decided (Consent Policy Specificity), how that decision moves (Policy Change), what is actually in use (Use Composition), whether the two match (Use Compliance), and the harm that occurs whether or not a policy exists to name it (Misuse).
+This model contains five metrics: what a community has decided (Consent Policy Specificity), how that decision changes (Policy Change), what is in use (Use Composition), whether the two match (Use Compliance), and harm that occurs whether or not a policy exists to name it (Misuse).
 
 ### [Consent Policy Specificity](ai-use-consent-policy-specificity.md)
 
@@ -92,7 +92,7 @@ This model contains five metrics. Together they cover what a community has decid
 ### [Use Composition](ai-use-composition.md)
 
 - **Description.** What AI tools, models, and ownership structures are in use across a community's spaces.
-- **Objectives.** Establish what is actually present: tool types in use at category level (assistant, notetaker, autonomous agent, moderation bot), specific named tools (Copilot, ChatGPT, Claude), the underlying model or family and its openness, and who controls the tool and its data.
+- **Objectives.** Establish what is present: tool types in use at category level (assistant, notetaker, autonomous agent, moderation bot), specific named tools (Copilot, ChatGPT, Claude), the underlying model or family and its openness, and who controls the tool and its data.
 - **Implementation.** See data collection strategies section.
 
 ### [Use Compliance](ai-use-compliance.md)

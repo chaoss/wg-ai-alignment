@@ -8,7 +8,7 @@ This metric is part of the [AI Alignment - Community Governed AI Use](metric-mod
 
 The presence and rate of AI use that causes harm or violates community norms, independent of whether a formal policy exists yet to violate.
 
-Capture harm and disruption that predates or falls outside written policy, so that communities without an AI policy, or with use that violates the Code of Conduct, can still measure it. This is deliberately separate from [Use Compliance](ai-use-compliance.md): compliance measures use against policy, while misuse measures harm whether or not policy names it.
+Capture harm and disruption that predates or falls outside written policy, so that communities without an AI policy, or with use that violates the Code of Conduct, can still measure it. [Use Compliance](ai-use-compliance.md) measures use against policy; this metric measures harm whether or not policy names it.
 
 | Indicator | Implementation | Measurable now? |
 | --- | --- | --- |
@@ -19,7 +19,7 @@ Capture harm and disruption that predates or falls outside written policy, so th
 | Wrongful accusation | Contributors who did not use AI being wrongly accused of undisclosed use, including harm produced by retaliation and other motivations. Maintainer self-report, code of conduct records | Not yet |
 | Attribution stripped from lifted work | Cases where AI output reproduced another author's code or prose without headers or attribution | Not yet |
 
-**Note on licensing:** license laundering is legally unsettled rather than established fact. Framing it as unresolved lets member projects evaluate the risk without overstating a position courts have not yet decided.
+**Note on licensing:** license laundering is legally unsettled, not established fact. Courts have not yet resolved it, and projects should not overstate the position.
 
 ## Want to Know More?
 

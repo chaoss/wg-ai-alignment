@@ -8,7 +8,7 @@ This metric is part of the [AI Alignment - Community Governed AI Use](metric-mod
 
 Whether actual or disclosed AI use matches what current policy permits.
 
-Check disclosed or detected use (per [Use Composition](ai-use-composition.md)) against the specificity and supervision level set for that domain (per [Consent Policy Specificity](ai-use-consent-policy-specificity.md)). Compliance can only be assessed where policy is specific enough to be checked against, so a low score here may reflect a silent policy rather than a non-compliant community.
+Check disclosed or detected use (per [Use Composition](ai-use-composition.md)) against the specificity and supervision level set for that domain (per [Consent Policy Specificity](ai-use-consent-policy-specificity.md)). Compliance can only be checked where policy is specific enough to check against, so a low score may reflect a silent policy and not a non-compliant community.
 
 | Indicator | Implementation | Measurable now? |
 | --- | --- | --- |
