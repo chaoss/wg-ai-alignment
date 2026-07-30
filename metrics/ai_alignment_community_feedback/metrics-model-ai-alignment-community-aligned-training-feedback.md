@@ -45,12 +45,12 @@ Re-testable outcomes are the core evidence layer for this metric. These are the 
 
 | Lean | Feedback type | Evidence standard | Why community cares | Why builders care |
 | --- | --- | --- | --- | --- |
-| Both care | Re-testable: Quality of contribution | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Low-quality, high-volume, or confusing AI output wastes maintainer time | Their tool producing low-value output on repos they depend on |
-| Both care | Re-testable: Accuracy / factuality | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Wrong info about their project | Hallucination is a tracked quality metric |
+| Both care | **Re-testable: Quality of contribution** | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Low-quality, high-volume, or confusing AI output wastes maintainer time | Their tool producing low-value output on repos they depend on |
+| Both care | **Re-testable: Accuracy / factuality** | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Wrong info about their project | Hallucination is a tracked quality metric |
 | Both care | Safety | Incident report or policy evidence | Harm in their spaces | High priority: misuse, liability, public trust |
 | Both care | Bias / discriminatory | Incident report or policy evidence | Harm to people | Eval target, reputational, employment and legal risk |
 | Both care | Privacy | Incident report or policy evidence | Exposure of contributors' data | Legal and compliance risk |
-| Both care | Re-testable: Tooling / agent behavior | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Rate limits, spam, ignoring robots.txt or opt-outs | Their agents misbehaving in workflows they rely on |
+| Both care | **Re-testable: Tooling / agent behavior** | Shared benchmark or repeatable re-test; provider changelog as supporting evidence | Rate limits, spam, ignoring robots.txt or opt-outs | Their agents misbehaving in workflows they rely on |
 | Both care | Environmental impact | Incident report or public evidence | Model meets community standards | Brand, ESG reporting, public scrutiny of AI energy use |
 | Both care | Accessibility | Incident report or policy evidence | Inclusive participation | Compliance requirements, procurement, brand reputation |
 | Leans community | Attribution / provenance | Attribution record or policy evidence | Credit and agency for their work | Mostly license and legal risk |
