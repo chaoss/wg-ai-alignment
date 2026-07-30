@@ -8,7 +8,7 @@ This metric is part of the [AI Alignment - Community Governed AI Use](metric-mod
 
 What AI tools, models, and ownership structures are in use across a community's spaces.
 
-Establish what is actually present, so a community can see the composition of AI in its spaces rather than inferring it: which categories of tool are operating, which named products, which underlying models and how open they are, and who controls the tool and the data flowing through it.
+Establish what is present in a community's spaces: the categories of tool operating, the named products, the underlying models and their openness, and who controls the tool and its data.
 
 | Indicator | Implementation | Measurable now? |
 | --- | --- | --- |
