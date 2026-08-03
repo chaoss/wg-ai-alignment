@@ -173,7 +173,7 @@ Marking these gaps is part of the work. The "unknown" entries are where the WG a
 
 Available tools / signals
 
-- Ecosyste.ms (usage, ecosystem, solo maintainer)
+- [Ecosyste.ms](https://ecosyste.ms/) (usage, ecosystem, solo maintainer)
 - GraphQL (comment metadata like hidden comments)
 - Coraline's tool (Repository Invitations) - see her [2017 blog post](https://where.coraline.codes/writing/my-year-at-github/) here (section Collaboration particularly).
 - [agents-to-block](https://github.com/adrinjalali/agents-to-block) (community-maintained list of AI agents)
