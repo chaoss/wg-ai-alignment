@@ -4,7 +4,7 @@
 
 ## Overview
 
-This metric is part of the [AI Alignment - Community Aligned Training (Feedback)](metrics-model-ai-alignment-community-aligned-training-feedback.md) metrics model, which measures whether a community can give feedback to a model builder and see its impact, as the means by which alignment with that community increases.
+This metric is part of the [AI Alignment - Community Aligned Training (Feedback)](metric-model-ai-alignment-community-aligned-training-feedback.md) metrics model, which measures whether a community can give feedback to a model builder and see its impact, as the means by which alignment with that community increases.
 
 Determine the quality of a channel in providing a feedback loop between open source communities and model builders.
 

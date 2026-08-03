@@ -19,7 +19,7 @@ AI models are built on the labor of open source communities in two distinct ways
 This metric treats community feedback as a way to center the values, labour and intention of open communities AI is built on, using empirical language we hope model builders will respond to. The specific metrics described within are:
 
 - [AI feedback governance](ai-feedback-governance.md)
-- [Feedback channel quality](feedback-channel-quality.md)
+- [Feedback channel quality](ai-feedback-channel-quality.md)
 - Efficiency (of the process)
 - Effectiveness (measures of value to model builders and communities)
 
@@ -102,7 +102,7 @@ This model contains three metrics: Method of Feedback, Effectiveness of Feedback
 
 - **Implementation.** See data collection strategies section.
 
-### [Feedback Channel Quality](feedback-channel-quality.md)
+### [Feedback Channel Quality](ai-feedback-channel-quality.md)
 
 - **Description.** Determine the quality of a channel in providing a feedback loop between open source communities and model builders.
 - **Objectives.** Discover whether a usable feedback channel exists at all, its accessibility for community and model builders, categories of feedback accepted (as per value lists above) and other SLA details.
