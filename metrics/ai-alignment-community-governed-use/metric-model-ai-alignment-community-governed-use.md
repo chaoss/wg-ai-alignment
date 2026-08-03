@@ -175,7 +175,7 @@ Available tools / signals
 
 - Ecosyste.ms (usage, ecosystem, solo maintainer)
 - GraphQL (comment metadata like hidden comments)
-- Coraline's tool (Repository Invitations) - see her 2017 blog post here (section Collaboration particularly).
+- Coraline's tool (Repository Invitations) - see her [2017 blog post](https://where.coraline.codes/writing/my-year-at-github/) here (section Collaboration particularly).
 - [agents-to-block](https://github.com/adrinjalali/agents-to-block) (community-maintained list of AI agents)
 - Account identity, signed commits, workflow YAML, integration manifests (for bot/agent identification)
 - [https://github.com/unveil-project/identity](https://github.com/unveil-project/identity) - AgentScan - GitHub AI Agent Detector. An open experiment in detecting automation patterns on GitHub
