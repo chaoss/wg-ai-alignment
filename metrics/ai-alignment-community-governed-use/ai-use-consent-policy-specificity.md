@@ -6,7 +6,7 @@ This metric is part of the [AI Alignment - Community Governed Use](../ai-alignme
 
 ## Overview
 
-For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or is silent. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces.
+For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or does not address it. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces.
 
 A summary roll-up (overall AI use posture, across all domains) may sit alongside the per-domain breakdown.
 

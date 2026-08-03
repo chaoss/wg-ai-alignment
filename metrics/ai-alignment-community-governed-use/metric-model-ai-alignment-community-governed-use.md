@@ -2,6 +2,8 @@
 
 **Question:** How clear and compliant is a project/community's governance around AI use.
 
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
+
 ## Why It Matters
 
 AI is changing how we build software and how we collaborate, and it comes with as-yet-unknown impacts on communities where AI is being used to communicate and build.
@@ -76,7 +78,7 @@ This model contains the following metrics:
 ### 1. [Consent Policy Specificity](ai-use-consent-policy-specificity.md)
 
 - **Description:** How specifically a community's AI policy addresses each domain where AI shows up, rather than one blanket statement covering all use.
-- **Objective:** For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or is silent. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces. A summary roll-up (overall AI use posture, across all domains) may sit alongside the per-domain breakdown.
+- **Objective:** For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or does not address it. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces. A summary roll-up (overall AI use posture, across all domains) may sit alongside the per-domain breakdown.
 
 ### 2. [Policy Change](ai-use-policy-change.md)
 

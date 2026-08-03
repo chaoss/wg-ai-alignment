@@ -26,7 +26,7 @@ Note: The "unknown" entries are where the CHAOSS and adjacent projects can build
 
 ### Filters
 
-- Code of conduct category 
+- Code of conduct category
 - Risk type (safety, security, reputation, privacy)
 
 ### Visualizations
