@@ -30,8 +30,10 @@ This metric is part of the [AI Alignment - Community Governed Use](../ai-alignme
 - A stacked bar chart that shows how much each type of AI tool is used in the community.
 
 ![alt text](../images/critical-repositories-with-ai-instruction-files.png)
+[Thanks to Andrew from Ecosyste.ms](https://ecosyste.ms/)
 
 ![alt text](../images/explicit-ai-signals.png.png)
+[Thanks to Andrew from Ecosyste.ms](https://ecosyste.ms/)
 
 ## References
 
