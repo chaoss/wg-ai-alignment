@@ -179,7 +179,7 @@ Available tools / signals
 - [agents-to-block](https://github.com/adrinjalali/agents-to-block) (community-maintained list of AI agents)
 - Account identity, signed commits, workflow YAML, integration manifests (for bot/agent identification)
 - [https://github.com/unveil-project/identity](https://github.com/unveil-project/identity) - AgentScan - GitHub AI Agent Detector. An open experiment in detecting automation patterns on GitHub
-- CHAOSS Disclosure - detects AI disclosures in git commits and pull requests
+- [CHAOSS Disclosure](https://github.com/chaoss/disclosure) - detects AI disclosures in git commits and pull requests
 - Airflow Energy Metrics Provider (measuring energy consumption and carbon footprint in Airflow dags)
 
 ## Visualizations
