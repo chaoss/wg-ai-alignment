@@ -20,7 +20,7 @@ Track tightening, loosening, and newly added provisions per domain (see [Consent
 
 ### Filters
 
-Filters based on [ai-use-policy-specificity](metrics\ai-alignment-community-governed-use\ai-use-consent-policy-specificity.md)
+Filters based on [ai-use-policy-specificity](ai-use-consent-policy-specificity.md):
 
 -  Code contributions (PRs, issues, comments)
 - Notetaker / meeting bots (recorded discussion, closed or small-group content)
