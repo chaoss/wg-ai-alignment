@@ -2,7 +2,7 @@
 
 **Question:** How  does a community's AI policy changes over time, and how that compares to shifts happening across other projects.
 
-This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics mode.
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
 
