@@ -1,10 +1,10 @@
 # Misuse
 
-**Question:** To be added.
+**Question:** Is AI use causing harm or violating community norms and expectations including the Code of Conduct.
+
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
-
-AI use that causes harm or violates community norms and expectations.
 
 Capture harm and disruption that predates or falls outside written policy, so communities without an AI policy or that which violates the Code of Conduct. Other potentials:
 
@@ -26,15 +26,17 @@ Note: The "unknown" entries are where the CHAOSS and adjacent projects can build
 
 ### Filters
 
-To be added.
+- Code of conduct category 
+- Risk type (safety, security, reputation, privacy)
 
 ### Visualizations
 
-To be added.
+- A bar chart or timeline that shows the number and severity of misuse events over time.
 
 ## References
 
-To be added.
+- [Contributors Covenant 3.0](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
+- [CHAOSS safety metric](https://www.chaoss.community/kb/metrics-model-safety/)
 
 ## Contributors
 

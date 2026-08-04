@@ -1,10 +1,10 @@
 # Use Composition
 
-**Question:** To be added.
+**Question:** What AI tools, models, and ownership structures are in use across a community's spaces.
+
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
-
-What AI tools, models, and ownership structures are in use across a community's spaces.
 
 - Tool Types in Use: category level: assistant, notetaker, autonomous agent, moderation bot, etc.
 - Specific Tools in Use: named products: Copilot, ChatGPT, Claude, etc.
@@ -23,15 +23,21 @@ What AI tools, models, and ownership structures are in use across a community's 
 
 ### Filters
 
-To be added.
+- Signals (declared, autonomous, all)
 
 ### Visualizations
 
-To be added.
+- A stacked bar chart that shows how much each type of AI tool is used in the community.
+
+![alt text](../images/critical-repositories-with-ai-instruction-files.png)
+[Thanks to Andrew from Ecosyste.ms](https://ecosyste.ms/)
+
+![alt text](../images/explicit-ai-signals.png)
+[Thanks to Andrew from Ecosyste.ms](https://ecosyste.ms/)
 
 ## References
 
-To be added.
+- [Ecosyste.ms](https://ecosyste.ms/)
 
 ## Contributors
 

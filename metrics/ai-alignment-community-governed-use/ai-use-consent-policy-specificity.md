@@ -1,10 +1,10 @@
 # Consent Policy Specificity
 
-**Question:** To be added.
+**Question:** How specifically, does a community's AI policy addresses each domain where AI shows up, rather than one blanket statement covering all use.
+
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
-
-How specifically a community's AI policy addresses each domain where AI shows up, rather than one blanket statement covering all use.
 
 For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or is silent. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces.
 
@@ -47,7 +47,7 @@ To be added.
 
 ### Visualizations
 
-To be added.
+- A policy coverage matrix that shows which areas are clear, partial, or missing.
 
 ## References
 

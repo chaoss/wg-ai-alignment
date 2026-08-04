@@ -1,10 +1,10 @@
 # Use Compliance
 
-**Question:** To be added.
+**Question:** Does AI use match what current policy permits.
+
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
-
-Whether actual or disclosed AI use matches what current policy permits.
 
 Check disclosed or detected use (per [Use Composition](ai-use-composition.md)) against the specificity and supervision level set for that domain (per [Consent Policy Specificity](ai-use-consent-policy-specificity.md)).
 
@@ -20,7 +20,7 @@ To be added.
 
 ### Visualizations
 
-To be added.
+- A traffic-light matrix that shows where use matches policy and where it does not.
 
 ## References
 

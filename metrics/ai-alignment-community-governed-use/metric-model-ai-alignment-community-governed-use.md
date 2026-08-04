@@ -167,7 +167,9 @@ Marking these gaps is part of the work. The "unknown" entries are where the WG a
 - Community size
 - Governance accountable (single maintainer, foundation, company etc)
 - Funding status
-- Carbon energy footprint
+- Carbon and energy footprint
+
+## Visualization Summary Suggestions
 
 ## Tooling & Resources
 

@@ -1,10 +1,10 @@
 # Policy Change
 
-**Question:** To be added.
+**Question:** How  does a community's AI policy changes over time, and how that compares to shifts happening across other projects.
+
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
-
-How a community's AI policy changes over time, and how that compares to shifts happening across other projects.
 
 Track tightening, loosening, and newly added provisions per domain (see [Consent Policy Specificity](ai-use-consent-policy-specificity.md)), so a community can see its own trajectory and where it sits relative to the wider ecosystem.
 
@@ -20,15 +20,25 @@ Track tightening, loosening, and newly added provisions per domain (see [Consent
 
 ### Filters
 
-To be added.
+Filters based on [ai-use-policy-specificity](ai-use-consent-policy-specificity.md):
+
+- Code contributions (PRs, issues, comments)
+- Notetaker / meeting bots (recorded discussion, closed or small-group content)
+- Content (documentation, blogs, design assets)
+- Moderation actions
+- Review (who or what may review using AI)
+- Autonomous / agentic use
+- Environmental Impact (energy use, water use, hardware/carbon footprint)
+- Infrastructure strain (server load, hardware cost/financing)
+- Data use for training (platform user data)
 
 ### Visualizations
 
-To be added.
+- A timeline that shows how policy language changed over time and whether that was to be more or less strict.
 
 ## References
 
-To be added.
+- CHAOSS AI Alignment Collection of [AI Policies](https://github.com/chaoss/wg-ai-alignment/blob/main/moderation/README.md)
 
 ## Contributors
 
