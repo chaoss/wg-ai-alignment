@@ -36,7 +36,7 @@ Note: The "unknown" entries are where the CHAOSS and adjacent projects can build
 ## References
 
 - [Contributors Covenant 3.0](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
-- [CHAOSS safety metric](https://www.contributor-covenant.org/version/3/0/code_of_conduct/)
+- [CHAOSS safety metric](https://www.chaoss.community/kb/metrics-model-safety/)
 
 ## Contributors
 
