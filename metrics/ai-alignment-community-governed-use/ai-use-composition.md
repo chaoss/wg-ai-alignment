@@ -32,7 +32,7 @@ This metric is part of the [AI Alignment - Community Governed Use](../ai-alignme
 ![alt text](../images/critical-repositories-with-ai-instruction-files.png)
 [Thanks to Andrew from Ecosyste.ms](https://ecosyste.ms/)
 
-![alt text](../images/explicit-ai-signals.png.png)
+![alt text](../images/explicit-ai-signals.png)
 [Thanks to Andrew from Ecosyste.ms](https://ecosyste.ms/)
 
 ## References
