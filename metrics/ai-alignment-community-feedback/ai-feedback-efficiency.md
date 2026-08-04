@@ -36,7 +36,7 @@ Known methods (as of this writing) for collecting data related to this metric.
 - **Effort Level:** low, medium, high, persistent, collective
 - **Feedback type:** ◆ quality of contribution, ◆ accuracy / factuality, safety, bias / discriminatory, privacy, ◆ tooling / agent behavior, environmental impact, accessibility, attribution / provenance, licensing / compliance, financial cost
 - **Time to response:** never, 1-24 hours, 1-7 days, 1-4 weeks, 1-3 months, 1-4 quarters, 1+ years
-- **Escalated:** no, yes
+- **Escalated:** yes, no
 - **Tier:** detectable-today core, standards-we're-asking-for
 - **Measurable now:** yes, partly, not yet
 
