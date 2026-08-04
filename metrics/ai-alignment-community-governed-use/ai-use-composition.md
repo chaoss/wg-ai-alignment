@@ -2,7 +2,7 @@
 
 **Question:** What AI tools, models, and ownership structures are in use across a community's spaces.
 
-This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics mode.
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
 
