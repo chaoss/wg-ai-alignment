@@ -13,7 +13,7 @@ Capture what the loop costs both communities and builders, so proportionality ca
 |Indicator|Cost to|Implementation|Measurable now?|
 |---|---|---|---|
 |Effort to give feedback|Identify feedback channel and assign scalar for effort letter|Yes|
-|Wait for a response|Timestamps on feedback channel waits)|Yes|
+|Wait for a response|Timestamps on feedback channel waits|Yes|
 |Escalation count|Reopened issues, duplicate issues, reverted statuses  or escalated|Yes|
 |Provider effort & cost|Provider|Infer from public timing (time to acknowledgment, time to change, whether it shipped); otherwise provider self-report|Not yet|
 
