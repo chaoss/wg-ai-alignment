@@ -6,7 +6,7 @@
 
 This metric is part of the [AI Alignment - Community Aligned Training (Feedback)](metric-model-ai-alignment-community-aligned-training-feedback.md) metrics model, which measures whether a community can give feedback to a model builder and see its impact, as the means by which alignment with that community increases.
 
-Measures the cost of the loop to each side. On the community side, the effort to give feedback and the wait for a response. On the model-builder side, the effort and cost to respond and implement. Neither side's time is free.
+Measures the cost of the loop to each side. On the community side, the effort to give feedback and the wait for a response. On the model builder side, the effort and cost to respond and implement. Neither side's time is free.
 
 Capture what the loop costs both communities and builders, so proportionality can be judged. A channel that technically exists but is expensive for a community to use, or slow and costly for a provider to answer, is not a working loop.
 
