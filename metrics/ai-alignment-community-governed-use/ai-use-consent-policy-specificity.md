@@ -2,7 +2,7 @@
 
 **Question:** How specifically, does a community's AI policy addresses each domain where AI shows up, rather than one blanket statement covering all use.
 
-This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics mode.
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
 
 ## Overview
 
