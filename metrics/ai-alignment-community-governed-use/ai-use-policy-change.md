@@ -34,7 +34,7 @@ Filters based on [ai-use-policy-specificity](ai-use-consent-policy-specificity.m
 
 ### Visualizations
 
-- A timeline that shows how policy language changed over time and whether tha twas to be more or less strict. 
+- A timeline that shows how policy language changed over time and whether that was to be more or less strict.
 
 ## References
 
