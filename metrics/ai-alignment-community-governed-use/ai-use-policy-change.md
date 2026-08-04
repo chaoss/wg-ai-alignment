@@ -22,7 +22,7 @@ Track tightening, loosening, and newly added provisions per domain (see [Consent
 
 Filters based on [ai-use-policy-specificity](ai-use-consent-policy-specificity.md):
 
--  Code contributions (PRs, issues, comments)
+- Code contributions (PRs, issues, comments)
 - Notetaker / meeting bots (recorded discussion, closed or small-group content)
 - Content (documentation, blogs, design assets)
 - Moderation actions
