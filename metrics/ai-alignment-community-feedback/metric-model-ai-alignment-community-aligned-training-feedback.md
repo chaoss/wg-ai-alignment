@@ -23,7 +23,7 @@ This metric treats community feedback as a way to center the values, labour and 
 - [Efficiency](ai-feedback-efficiency.md) (of the process)
 - [Effectiveness](ai-feedback-effectiveness) (measures of value to model builders and communities)
 
-**NOTE**: While this metric model focuses on improvement to the model itselff, alternate solutions including open weight are potential solutions for alignment. Additionally, [despite outreach](https://sunnydeveloper.com/be-the-first/), we have not yet found a model builder willing to engage with, and prototype community alignment - we hope this model can be part of advocacy for encouraging such partnerships.
+**NOTE**: While this metric model focuses on improvement to the model itself, alternate solutions including open weight are potential solutions for alignment. Additionally, [despite outreach](https://sunnydeveloper.com/be-the-first/), we have not yet found a model builder willing to engage with, and prototype community alignment - we hope this model can be part of advocacy for encouraging such partnerships.
 
 ### What we want to measure
 
