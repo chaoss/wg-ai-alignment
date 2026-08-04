@@ -2,8 +2,6 @@
 
 **Question:** How clear and compliant is a project/community's governance around AI use.
 
-This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics mode.
-
 ## Why It Matters
 
 AI is changing how we build software and how we collaborate, and it comes with as-yet-unknown impacts on communities where AI is being used to communicate and build.
