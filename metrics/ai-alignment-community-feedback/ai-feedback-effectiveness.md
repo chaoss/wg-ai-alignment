@@ -60,7 +60,6 @@ Known methods (as of this writing) for collecting data related to this metric.
 - Justin Wheeler
 - Adrian Edwards
 
-Add your name if you contributed
 
 ## Additional Information
 
