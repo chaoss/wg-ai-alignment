@@ -15,6 +15,6 @@ Please add other relevant resources as you come across them.
 * [AI Alignment (Wikipedia definition)](https://en.wikipedia.org/wiki/AI_alignment)
 * [What is AI Alignment?](https://research.ibm.com/blog/what-is-alignment-ai)
 * [Alignment with who? How AI safety can build on open source scaffolding](https://sunnydeveloper.com/alignment-with-who-how-ai-safety-can-build-on-open-source-scaffolding/)
-* [Exploring AI ethics in global contexts: a culturally responsive, psychologically realist approach](https://link.springer.com/article/10.1007/s43681-025-00821-6
+* [Exploring AI ethics in global contexts: a culturally responsive, psychologically realist approach](https://link.springer.com/article/10.1007/s43681-025-00821-6)
 * [OECD Principal 6 Respect for the rule of law, human rights and democratic values, including fairness and privacy (Principle 1.2)](https://oecd.ai/en/dashboards/ai-principles/P6)
   
