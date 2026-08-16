@@ -52,6 +52,7 @@ This includes:
 * QGIS ([discusion/proposal](https://github.com/qgis/QGIS-Enhancement-Proposals/blob/master/qep-408-ai-tool-policy.md))
 * [NLNet Labs LLM policy](https://nlnetlabs.nl/llm-policy/)
 * [Polars](https://github.com/pola-rs/polars/blob/main/AI_POLICY.md#ai-usage-policy)
+* [Rust](https://forge.rust-lang.org/policies/llm-usage.html) ([Announcement](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/))
 
 
 ### Organization/Company Policies
