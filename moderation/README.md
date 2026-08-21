@@ -142,9 +142,11 @@ Other curated lists and surveys covering AI and open source:
 
 
 ## Tools
-* PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
-* CHAOSS AI disclosure detection tool https://github.com/chaoss/ai-detection-action
+* [PR Trust Scoring Github Action](https://github.com/marketplace/actions/good-egg-trust-scoring-prs)
+* [CHAOSS AI disclosure detection tool](https://github.com/chaoss/disclosure) 
 * [AI Attribution format](https://aiattribution.github.io)
+* [aittributor](https://github.com/block/aittributor) - AI attribution tooling.
+* [usagescale](https://usagescale.org/) - a scale for describing AI usage in contributions.
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
