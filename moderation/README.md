@@ -53,7 +53,7 @@ This includes:
 * [NLNet Labs LLM policy](https://nlnetlabs.nl/llm-policy/)
 * [Polars](https://github.com/pola-rs/polars/blob/main/AI_POLICY.md#ai-usage-policy)
 * [Rust](https://forge.rust-lang.org/policies/llm-usage.html) ([Announcement](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/))
-
+* [Libfossil](https://fossil.wanderinghorse.net/r/libfossil/doc/trunk/doc/llm.md)
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
