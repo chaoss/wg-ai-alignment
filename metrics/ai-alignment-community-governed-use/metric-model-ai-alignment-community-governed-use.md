@@ -78,7 +78,7 @@ This model contains the following metrics:
 ### 1. [Consent Policy Specificity](ai-use-consent-policy-specificity.md)
 
 - **Description:** How specifically a community's AI policy addresses each domain where AI shows up, rather than one blanket statement covering all use.
-- **Objective:** For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or is silent. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces. A summary roll-up (overall AI use posture, across all domains) may sit alongside the per-domain breakdown.
+- **Objective:** For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or does not address it. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces. A summary roll-up (overall AI use posture, across all domains) may sit alongside the per-domain breakdown.
 
 ### 2. [Policy Change](ai-use-policy-change.md)
 
