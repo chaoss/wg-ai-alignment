@@ -2,7 +2,11 @@
 
 **Question:** Does AI use match what current policy permits.
 
+<<<<<<< HEAD
 This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics mode.
+=======
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
+>>>>>>> upstream/main
 
 ## Overview
 

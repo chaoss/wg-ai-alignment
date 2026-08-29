@@ -2,7 +2,11 @@
 
 **Question:** How  does a community's AI policy changes over time, and how that compares to shifts happening across other projects.
 
+<<<<<<< HEAD
 This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics mode.
+=======
+This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
+>>>>>>> upstream/main
 
 ## Overview
 
@@ -20,9 +24,15 @@ Track tightening, loosening, and newly added provisions per domain (see [Consent
 
 ### Filters
 
+<<<<<<< HEAD
 Filters based on [ai-use-policy-specificity](metrics\ai-alignment-community-governed-use\ai-use-consent-policy-specificity.md)
 
 -  Code contributions (PRs, issues, comments)
+=======
+Filters based on [ai-use-policy-specificity](ai-use-consent-policy-specificity.md):
+
+- Code contributions (PRs, issues, comments)
+>>>>>>> upstream/main
 - Notetaker / meeting bots (recorded discussion, closed or small-group content)
 - Content (documentation, blogs, design assets)
 - Moderation actions
@@ -34,7 +44,11 @@ Filters based on [ai-use-policy-specificity](metrics\ai-alignment-community-gove
 
 ### Visualizations
 
+<<<<<<< HEAD
 - A timeline that shows how policy language changed over time and whether tha twas to be more or less strict. 
+=======
+- A timeline that shows how policy language changed over time and whether that was to be more or less strict.
+>>>>>>> upstream/main
 
 ## References
 

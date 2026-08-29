@@ -51,6 +51,8 @@ This includes:
 * [GDAL AI Policy](https://gdal.org/en/stable/community/ai_tool_policy.html)
 * QGIS ([discusion/proposal](https://github.com/qgis/QGIS-Enhancement-Proposals/blob/master/qep-408-ai-tool-policy.md))
 * [NLNet Labs LLM policy](https://nlnetlabs.nl/llm-policy/)
+* [Polars](https://github.com/pola-rs/polars/blob/main/AI_POLICY.md#ai-usage-policy)
+* [Rust](https://forge.rust-lang.org/policies/llm-usage.html) ([Announcement](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/))
 
 
 ### Organization/Company Policies
@@ -100,6 +102,13 @@ _(Private — access can be requested by joining the [GitHub Maintainers Communi
 #### January
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
 * [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
+  
+#### March
+* https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
+* https://2ndbreakfast.audreywatters.com/there-is-no-human-centered-ai/
+
+### August
+* [Debian Votes Responsible AI Use](https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use)
 
 ### 2025
 #### December
@@ -135,9 +144,11 @@ Other curated lists and surveys covering AI and open source:
 
 
 ## Tools
-* PR Trust Scoring Github Action https://github.com/marketplace/actions/good-egg-trust-scoring-prs
-* CHAOSS AI disclosure detection tool https://github.com/chaoss/ai-detection-action
+* [PR Trust Scoring Github Action](https://github.com/marketplace/actions/good-egg-trust-scoring-prs)
+* [CHAOSS AI disclosure detection tool](https://github.com/chaoss/disclosure) 
 * [AI Attribution format](https://aiattribution.github.io)
+* [aittributor](https://github.com/block/aittributor) - AI attribution tooling.
+* [usagescale](https://usagescale.org/) - a scale for describing AI usage in contributions.
 
 ## Other Resources
 * https://github.com/adrinjalali/agents-to-block
