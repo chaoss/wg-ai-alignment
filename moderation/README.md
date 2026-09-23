@@ -57,6 +57,7 @@ This includes:
 * [CoMaps](https://codeberg.org/comaps/Governance/src/branch/main/AI_USAGE.md)
 * [RosarioSIS](https://www.rosariosis.org/no-ai-please/)
 * [GNU Health](https://docs.gnuhealth.org/his/techguide/contributing.html#contributing)
+* [Apache CouchDB](https://github.com/apache/couchdb/blob/main/CONTRIBUTING.md#artificial-intelligence-and-large-language-models-contributions-policy)
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
