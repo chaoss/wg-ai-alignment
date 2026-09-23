@@ -14,15 +14,17 @@ A summary roll-up (overall AI use posture, across all domains) may sit alongside
 
 What we look for the policy to address, specifically:
 
-- Code contributions (PRs, issues, comments)
+- Code (e.g., PRs, issues, comments; what developers/engineers may contribute)
 - Notetaker / meeting bots (recorded discussion, closed or small-group content)
-- Content (documentation, blogs, design assets)
-- Moderation actions
-- Review (who or what may review using AI)
-- Autonomous / agentic use
+- Content (e.g., blogs, design assets, documentation, marketing materials; published material, however submitted)
+- Moderation actions (e.g., maintainers responding to actions taken by people and AI tooling: flagging, hiding, deleting, banning or suspending, and enforcing a project AI policy)
+- Review (e.g., who or what may review using AI: a contributor reviewing their own work, a maintainer, or an automated/agentic reviewer)
+- Autonomous or agentic use (e.g., acting without a human in the loop per action and gaining the consent of a maintainer to use agentic contribution workflows)
 - Environmental Impact (energy use, water use, hardware/carbon footprint)
-- Infrastructure strain (server load, hardware cost/financing)
-- Data use for training (platform user data)
+- Infrastructure strain (server load, hardware cost/financing; machines and
+  money, not maintainer time)
+- Data use for training (platform user data: whether this community's own
+  material may be used to train models)
 
 ### Consent-type attributes
 
