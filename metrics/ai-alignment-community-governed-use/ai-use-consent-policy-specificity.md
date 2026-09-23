@@ -14,7 +14,7 @@ A summary roll-up (overall AI use posture, across all domains) may sit alongside
 
 What we look for the policy to address, specifically:
 
-- Code contributions (PRs, issues, comments; what contributors may submit)
+- Code (e.g., PRs, issues, comments; what developers/engineers may contribute)
 - Notetaker / meeting bots (recorded discussion, closed or small-group content)
 - Content (documentation, blogs, design assets; published material, however submitted)
 - Moderation actions (maintainers responding to actions taken by people and AI tooling: flagging,
