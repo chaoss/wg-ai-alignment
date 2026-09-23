@@ -17,8 +17,7 @@ What we look for the policy to address, specifically:
 - Code (e.g., PRs, issues, comments; what developers/engineers may contribute)
 - Notetaker / meeting bots (recorded discussion, closed or small-group content)
 - Content (documentation, blogs, design assets; published material, however submitted)
-- Moderation actions (maintainers responding to actions taken by people and AI tooling: flagging,
-  hiding, deleting, banning, and enforcing the AI policy itself)
+- Moderation actions (e.g., maintainers responding to actions taken by people and AI tooling: flagging, hiding, deleting, banning or suspending, and enforcing a project AI policy)
 - Review (who or what may review using AI: a contributor reviewing their own
   work, a maintainer, or an automated reviewer)
 - Autonomous / agentic use (acting without a human in the loop per action)
