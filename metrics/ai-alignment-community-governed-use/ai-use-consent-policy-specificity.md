@@ -18,8 +18,7 @@ What we look for the policy to address, specifically:
 - Notetaker / meeting bots (recorded discussion, closed or small-group content)
 - Content (e.g., blogs, design assets, documentation, marketing materials; published material, however submitted)
 - Moderation actions (e.g., maintainers responding to actions taken by people and AI tooling: flagging, hiding, deleting, banning or suspending, and enforcing a project AI policy)
-- Review (who or what may review using AI: a contributor reviewing their own
-  work, a maintainer, or an automated reviewer)
+- Review (e.g., who or what may review using AI: a contributor reviewing their own work, a maintainer, or an automated/agentic reviewer)
 - Autonomous / agentic use (acting without a human in the loop per action)
 - Environmental Impact (energy use, water use, hardware/carbon footprint)
 - Infrastructure strain (server load, hardware cost/financing; machines and
