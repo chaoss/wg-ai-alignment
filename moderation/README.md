@@ -58,6 +58,10 @@ This includes:
 * [RosarioSIS](https://www.rosariosis.org/no-ai-please/)
 * [GNU Health](https://docs.gnuhealth.org/his/techguide/contributing.html#contributing)
 * [Apache CouchDB](https://github.com/apache/couchdb/blob/main/CONTRIBUTING.md#artificial-intelligence-and-large-language-models-contributions-policy)
+* [Void Linux](https://github.com/void-linux/.github/blob/master/CONTRIBUTING.md#ai-usage)
+* [Asahi Linux](https://asahilinux.org/llm-policy/)
+* [IzzyOnDroid App Inclusion Policy](https://izzyondroid.org/docs/general/AppInclusionPolicy/#ai-policy)
+* [Wine Clean Room Guidelines](https://gitlab.winehq.org/wine/wine/-/wikis/Clean-Room-Guidelines)
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
