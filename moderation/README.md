@@ -61,6 +61,7 @@ This includes:
 * [Void Linux](https://github.com/void-linux/.github/blob/master/CONTRIBUTING.md#ai-usage)
 * [Asahi Linux](https://asahilinux.org/llm-policy/)
 * [IzzyOnDroid App Inclusion Policy](https://izzyondroid.org/docs/general/AppInclusionPolicy/#ai-policy)
+* [Leptos AI Policy](https://github.com/leptos-rs/leptos/blob/main/AI_POLICY.md)
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
