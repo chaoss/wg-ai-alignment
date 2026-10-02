@@ -12,9 +12,9 @@ Capture what the loop costs both communities and builders, so proportionality ca
 
 |Indicator|Cost to|Implementation|Measurable now?|
 |---|---|---|---|
-|Effort to give feedback|Identify feedback channel and assign scalar for effort letter|Yes|
-|Wait for a response|Timestamps on feedback channel waits|Yes|
-|Escalation count|Reopened issues, duplicate issues, reverted statuses  or escalated|Yes|
+|Effort to give feedback|Community|Identify feedback channel and assign scalar for effort letter|Yes|
+|Wait for a response|Community|Timestamps on feedback channel waits|Yes|
+|Escalation count|Community|Reopened issues, duplicate issues, reverted statuses  or escalated|Yes|
 |Provider effort & cost|Provider|Infer from public timing (time to acknowledgment, time to change, whether it shipped); otherwise provider self-report|Not yet|
 
 Existing CHAOSS metrics to draw on: [Time to First Response](https://www.chaoss.community/kb/metric-time-to-first-response/), [Issue Response Time](https://www.chaoss.community/kb/metric-issue-response-time/), [Labor Investment](https://www.chaoss.community/kb/metric-labor-investment/),  [Collaboration Platform Activity](https://www.chaoss.community/kb/metric-collaboration-platform-activity/)
