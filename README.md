@@ -8,6 +8,8 @@ Our working group focuses on AI alignment for open source communities - specific
 
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for more information on how to participate and contribute.
 
+This working group has an [AI Policy](AI_POLICY.md) governing the use of AI tools in contributions.
+
 # Context for this Work: Resources on AI Safety, Alignment, and Ethics
 
 Please add other relevant resources as you come across them.
