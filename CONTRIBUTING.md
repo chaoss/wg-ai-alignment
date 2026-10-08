@@ -63,3 +63,7 @@ Sign off each commit with:
 ```
 git commit -s -m "Your commit message"
 ```
+
+## AI-Assisted Contributions
+
+You may use AI tools when contributing to this working group, as long as you follow our [AI-Assisted Contributions Policy](AI_POLICY.md). In short: you are accountable for everything you submit, and you must disclose significant AI assistance, for example with an `Assisted-by:` commit trailer.
