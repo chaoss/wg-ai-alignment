@@ -101,7 +101,7 @@ Compare changes by domain, type, and direction, with the period and history cove
 
 Do not place first-observed baselines on a tightening/loosening scale. Show a legend when color or position indicates direction; direction is qualitative, not a measured score.
 
-Example timeline from the pilot:
+Example timeline from the pilot ([Reference link](https://github.com/emmairwin/ai-oss-use-specificity/blob/main/reports/policy-change-2026-10-23.md)):
 
 ![Example timeline of 28 policy revisions across 21 projects. Markers link to source evidence, colors identify projects, and numbered entries list revisions in chronological order with domain labels.](https://github.com/emmairwin/ai-oss-use-specificity/blob/main/images/2026-10-23/policy-change.svg)
 
