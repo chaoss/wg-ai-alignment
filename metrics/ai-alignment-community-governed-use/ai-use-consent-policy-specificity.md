@@ -1,4 +1,4 @@
-# Consent Policy Specificity
+#  Policy Specificity
 
 **Question:** How specifically, does a community's AI policy addresses each domain where AI shows up, rather than one blanket statement covering all use.
 
