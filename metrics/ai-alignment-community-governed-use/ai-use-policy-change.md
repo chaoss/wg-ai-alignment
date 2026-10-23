@@ -16,6 +16,8 @@ This metric describes policy changes; it does not rate whether a policy is good,
 
 One revision may affect multiple domains or move in different directions. Classify each changed provision separately where practical.
 
+**NOTE**: this can be tricky because the location of policy can be in any number of files.  Check all governance documents where possible.
+
 ## Want to Know More?
 
 ### Data Collection Strategies
@@ -65,8 +67,6 @@ Record these when documented; they are not required:
 
 Use the core filters for each change. Context filters are optional when sources provide them.
 
-#### Core filters
-
 | Filter | Values or format | Why it is workable |
 |---|---|---|
 | Project / community | Project name or stable identifier | Every record belongs to a project. |
@@ -79,22 +79,11 @@ Use the core filters for each change. Context filters are optional when sources 
 
 #### Handling domain assignment
 
-- Assign every affected domain supported by the evidence; do not force one primary domain.
+- Assign every affected domain supported by the evidence; do not force one primary  (AI policy specificity) domain.
 - Treat supervision, scope, accountability, and proportionality as cross-cutting Consent-type attributes, not domains. Record them separately when relevant.
 - Record disclosure as a provision where relevant; do not add it as a domain.
 - If an observed change does not fit a domain, note it as outside the taxonomy and exclude it from domain comparisons.
 - Use **unable to determine** when evidence cannot establish the subject or scope; state what is unclear. This is distinct from no change found or history unavailable.
-
-#### Context filters when documented
-
-| Filter | Use |
-|---|---|
-| Policy source type | Repository file, project website, governance record, issue/proposal, or other. |
-| Decision process | Vote, consensus, maintainer decision, or other stated process; otherwise “not reported.” |
-| Enforcement mechanism | Automatic, case-by-case, other stated mechanism, or not stated. |
-| Implementation status | Proposed, adopted/effective, approved but not yet effective, or unknown, when supported. |
-| Vote result details | Turnout, result, and margin when documented. |
-| Classification note | Brief rationale or uncertainty for mixed or unclear cases. |
 
 Do not require every filter for every project. Distinguish unavailable, not stated, and not applicable when supported. Do not add policy elements as domains.
 
