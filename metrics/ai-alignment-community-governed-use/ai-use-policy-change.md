@@ -1,7 +1,5 @@
 # Policy Change
 
-**Status:** Proposed revision for community review; not submitted upstream.
-
 **Question:** How do communities' AI policies change over time, and how do those changes compare across projects?
 
 This metric is part of the [AI Alignment - Community Governed Use](../ai-alignment-community-governed-use/metric-model-ai-alignment-community-governed-use.md) metrics model.
