@@ -25,6 +25,7 @@ What we look for the policy to address, specifically:
   money, not maintainer time)
 - Data use for training (platform user data: whether this community's own
   material may be used to train models)
+- Slop (a 'bucket' for  terms that describe in negative terms 'AI' as a techology or output)
 
 ### Consent-type attributes
 
