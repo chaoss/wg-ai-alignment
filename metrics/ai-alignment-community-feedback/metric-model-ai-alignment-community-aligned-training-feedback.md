@@ -253,9 +253,3 @@ Be the first open model builder to demonstrate alignment with open source commun
 - Andrew Nesbitt
 
 Add your name if you contributed
-
-## Additional Information
-
-To edit this metric please submit a Change Request here: (replace with correct link once metric is added to a focus area repo)
-
-To reference this metric in software or publications please use this stable URL: (replace with permalink once published)
