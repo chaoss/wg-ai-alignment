@@ -9,7 +9,7 @@ This includes:
 - Examples of the kinds of behavior AI policies are meant to prevent
 - Blog posts and news articles
 
-## Related 
+## Related
 
 * [Machine readable preferance signaling](https://datatracker.ietf.org/doc/draft-vaughan-machine-readability/)
 
@@ -63,6 +63,7 @@ This includes:
 * [IzzyOnDroid App Inclusion Policy](https://izzyondroid.org/docs/general/AppInclusionPolicy/#ai-policy)
 * [Leptos AI Policy](https://github.com/leptos-rs/leptos/blob/main/AI_POLICY.md)
 * [Ratatui-hypertile AI Policy](https://github.com/nikolic-milos/ratatui-hypertile/blob/main/AI_POLICY.md)
+* Wine: [Clean Room Guidelines](https://gitlab.winehq.org/wine/wine/-/wikis/Clean-Room-Guidelines) advise against using LLM tools to generate code because training material may violate the guidelines or output may be LGPL-incompatible; the [Developer FAQ](https://gitlab.winehq.org/wine/wine/-/wikis/Developer-FAQ#can-i-contribute-code-generated-by-a-large-language-model-llm-tool) says Wine cannot assume it may distribute generated code under its license.
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
@@ -111,10 +112,13 @@ _(Private — access can be requested by joining the [GitHub Maintainers Communi
 #### January
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
 * [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
-  
+
 #### March
 * https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
 * https://2ndbreakfast.audreywatters.com/there-is-no-human-centered-ai/
+
+#### May
+* [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html) discusses agent-directed text emitted in jqwik 1.10.0 test output and the community response; it notes that jqwik revised the behavior in 1.10.1 ([jqwik issue #708](https://github.com/jqwik-team/jqwik/issues/708)).
 
 #### August
 * [Debian Votes Responsible AI Use](https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use)
@@ -154,7 +158,7 @@ Other curated lists and surveys covering AI and open source:
 
 ## Tools
 * [PR Trust Scoring Github Action](https://github.com/marketplace/actions/good-egg-trust-scoring-prs)
-* [CHAOSS AI disclosure detection tool](https://github.com/chaoss/disclosure) 
+* [CHAOSS AI disclosure detection tool](https://github.com/chaoss/disclosure)
 * [AI Attribution format](https://aiattribution.github.io)
 * [aittributor](https://github.com/block/aittributor) - AI attribution tooling.
 * [usagescale](https://usagescale.org/) - a scale for describing AI usage in contributions.
@@ -163,6 +167,13 @@ Other curated lists and surveys covering AI and open source:
 * https://github.com/adrinjalali/agents-to-block
 * [Model Openness Framework Classes](https://arxiv.org/html/2403.13784v6#S4)
 
+### Project-specific agent instructions
+
+These resources document different approaches; an instruction file is not necessarily a formal AI-use policy.
+
+* [AGENTS.md](https://agents.md/) is an open format for guiding coding agents.
+* Project examples: [p5.js](https://github.com/processing/p5.js/blob/main/AGENTS.md), [pkgconf](https://github.com/pkgconf/pkgconf/blob/main/CONTRIBUTING.md#instructions-for-agentic-systems), and [Ansible's Claude Code guide PR](https://github.com/ansible/ansible/pull/85841).
+* Research discussed by the working group: [arXiv:2602.11988](https://arxiv.org/abs/2602.11988) and [arXiv:2601.20404](https://arxiv.org/abs/2601.20404).
 
 ## Responsible AI Contribution examples
 
