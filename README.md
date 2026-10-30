@@ -2,7 +2,7 @@
 This repo is for the AI Alignment for Open Source Working Group
 
 What is AI Alignment?
-[AI alignment](https://en.wikipedia.org/wiki/AI_alignment) is the effort to design AI systems so that their goals, behaviors, and decisions are consistent with human values. AAI alignment is one area of work within the broader [AI safety](https://en.wikipedia.org/wiki/AI_safety) domain.
+[AI alignment](https://en.wikipedia.org/wiki/AI_alignment) is the effort to design AI systems so that their goals, behaviors, and decisions are consistent with human values. AI alignment is one area of work within the broader [AI safety](https://en.wikipedia.org/wiki/AI_safety) domain.
 
 Our working group focuses on AI alignment for open source communities - specifically, on metrics that help evaluate how well AI systems understand and respect what open source communities have built, what we know, what we value, and what we expect from AI systems that depend on our projects and participate in our spaces.  
 
