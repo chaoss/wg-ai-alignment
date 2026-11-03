@@ -63,6 +63,7 @@ This includes:
 * [IzzyOnDroid App Inclusion Policy](https://izzyondroid.org/docs/general/AppInclusionPolicy/#ai-policy)
 * [Leptos AI Policy](https://github.com/leptos-rs/leptos/blob/main/AI_POLICY.md)
 * [Ratatui-hypertile AI Policy](https://github.com/nikolic-milos/ratatui-hypertile/blob/main/AI_POLICY.md)
+* [SuperTuxKart's policy on AI-generated code](https://supertuxkart.net/How_to_contribute_code#supertuxkarts-policy-on-ai-generated-code)
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
