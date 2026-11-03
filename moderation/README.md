@@ -9,7 +9,7 @@ This includes:
 - Examples of the kinds of behavior AI policies are meant to prevent
 - Blog posts and news articles
 
-## Related 
+## Related
 
 * [Machine readable preferance signaling](https://datatracker.ietf.org/doc/draft-vaughan-machine-readability/)
 
@@ -64,6 +64,7 @@ This includes:
 * [Leptos AI Policy](https://github.com/leptos-rs/leptos/blob/main/AI_POLICY.md)
 * [Ratatui-hypertile AI Policy](https://github.com/nikolic-milos/ratatui-hypertile/blob/main/AI_POLICY.md)
 * [SuperTuxKart's policy on AI-generated code](https://supertuxkart.net/How_to_contribute_code#supertuxkarts-policy-on-ai-generated-code)
+* [AlpineBSD AI Policy](https://wiki.alpinebsd.org/ai-policy)
 
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
@@ -112,7 +113,7 @@ _(Private — access can be requested by joining the [GitHub Maintainers Communi
 #### January
 * https://mitsloanedtech.mit.edu/ai/teach/ai-detectors-dont-work/
 * [curl bounty shutdown](https://thenewstack.io/drowning-in-ai-slop-reports-curl-ends-bug-bounties/)
-  
+
 #### March
 * https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
 * https://2ndbreakfast.audreywatters.com/there-is-no-human-centered-ai/
@@ -155,7 +156,7 @@ Other curated lists and surveys covering AI and open source:
 
 ## Tools
 * [PR Trust Scoring Github Action](https://github.com/marketplace/actions/good-egg-trust-scoring-prs)
-* [CHAOSS AI disclosure detection tool](https://github.com/chaoss/disclosure) 
+* [CHAOSS AI disclosure detection tool](https://github.com/chaoss/disclosure)
 * [AI Attribution format](https://aiattribution.github.io)
 * [aittributor](https://github.com/block/aittributor) - AI attribution tooling.
 * [usagescale](https://usagescale.org/) - a scale for describing AI usage in contributions.
