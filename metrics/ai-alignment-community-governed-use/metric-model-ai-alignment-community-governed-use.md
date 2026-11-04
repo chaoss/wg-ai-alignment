@@ -69,11 +69,11 @@ Note: These metrics represent a synthesis of existing policies and the tensions 
 
 This model contains the following metrics:
 
-- [Consent Policy Specificity](ai-use-consent-policy-specificity.md): measures how specifically a community's AI policy addresses each domain where AI shows up (code contributions, notetaker/meeting bots, content, moderation, review, autonomous/agentic use, environmental disclosure)
-- [Policy Change](ai-use-policy-change.md): measures how a community's AI governance shifts over time, tightening, loosening, or gaining new provisions, and how that compares to shifts happening across the wider ecosystem.
-- [Use Composition](ai-use-composition.md): measures what AI tools, models, and ownership structures are in use across a community's spaces (tool types, specific tools, model type, owner).
-- [Use Compliance](ai-use-compliance.md): measures how closely actual or disclosed AI use matches what current policy permits.
-- [Misuse](ai-use-misuse.md): measures the presence and rate of AI use that causes harm or violates community norms, independent of whether a formal policy exists yet to violate.
+- [Policy Specificity](https://www.chaoss.community/kb/feedback-channel-efficiency/): measures how specifically a community's AI policy addresses each domain where AI shows up (code contributions, notetaker/meeting bots, content, moderation, review, autonomous/agentic use, environmental disclosure)
+- [Policy Change]([ai-use-policy-change.md](https://www.chaoss.community/kb/policy-change/): measures how a community's AI governance shifts over time, tightening, loosening, or gaining new provisions, and how that compares to shifts happening across the wider ecosystem.
+- [Use Composition](https://www.chaoss.community/kb/use-composition/): measures what AI tools, models, and ownership structures are in use across a community's spaces (tool types, specific tools, model type, owner).
+- [Use Compliance](https://www.chaoss.community/kb/use-compliance/): measures how closely actual or disclosed AI use matches what current policy permits.
+- [Misuse](https://www.chaoss.community/kb/misuse/): measures the presence and rate of AI use that causes harm or violates community norms, independent of whether a formal policy exists yet to violate.
 
 ### 1. [Consent Policy Specificity](ai-use-consent-policy-specificity.md)
 
