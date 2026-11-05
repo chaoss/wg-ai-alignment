@@ -102,7 +102,7 @@ This model contains three metrics: Method of Feedback, Effectiveness of Feedback
 
 - **Implementation.** See data collection strategies section.
 
-### [Feedback Channel Quality](- [AI feedback governance](https://www.chaoss.community/kb/ai-feedback-governance/))
+### [Feedback Channel Quality](https://www.chaoss.community/kb/feedback-channel-quality/)
 
 - **Description.** Determine the quality of a channel in providing a feedback loop between open source communities and model builders.
 - **Objectives.** Discover whether a usable feedback channel exists at all, its accessibility for community and model builders, categories of feedback accepted (as per value lists above) and other SLA details.
