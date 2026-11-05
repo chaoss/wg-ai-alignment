@@ -65,6 +65,7 @@ This includes:
 * [Ratatui-hypertile AI Policy](https://github.com/nikolic-milos/ratatui-hypertile/blob/main/AI_POLICY.md)
 * [SuperTuxKart's policy on AI-generated code](https://supertuxkart.net/How_to_contribute_code#supertuxkarts-policy-on-ai-generated-code)
 * [AlpineBSD AI Policy](https://wiki.alpinebsd.org/ai-policy)
+* [Tock AI policy](https://github.com/tock/tock/blob/master/.github/CONTRIBUTING.md#ai-policy) ([RFC to restrict AI PR comments](https://github.com/tock/tock/pull/5118))
 
 ### Other related guidelines and policies
 * Wine: [Clean Room Guidelines](https://gitlab.winehq.org/wine/wine/-/wikis/Clean-Room-Guidelines) and [Developer FAQ](https://gitlab.winehq.org/wine/wine/-/wikis/Developer-FAQ#can-i-contribute-code-generated-by-a-large-language-model-llm-tool)
