@@ -70,7 +70,7 @@ Note: These metrics represent a synthesis of existing policies and the tensions 
 This model contains the following metrics:
 
 - [Policy Specificity](https://www.chaoss.community/kb/feedback-channel-efficiency/): measures how specifically a community's AI policy addresses each domain where AI shows up (code contributions, notetaker/meeting bots, content, moderation, review, autonomous/agentic use, environmental disclosure)
-- [Policy Change]([ai-use-policy-change.md](https://www.chaoss.community/kb/policy-change/): measures how a community's AI governance shifts over time, tightening, loosening, or gaining new provisions, and how that compares to shifts happening across the wider ecosystem.
+- [Policy Change](https://www.chaoss.community/kb/policy-change/): measures how a community's AI governance shifts over time, tightening, loosening, or gaining new provisions, and how that compares to shifts happening across the wider ecosystem.
 - [Use Composition](https://www.chaoss.community/kb/use-composition/): measures what AI tools, models, and ownership structures are in use across a community's spaces (tool types, specific tools, model type, owner).
 - [Use Compliance](https://www.chaoss.community/kb/use-compliance/): measures how closely actual or disclosed AI use matches what current policy permits.
 - [Misuse](https://www.chaoss.community/kb/misuse/): measures the presence and rate of AI use that causes harm or violates community norms, independent of whether a formal policy exists yet to violate.
@@ -80,14 +80,14 @@ This model contains the following metrics:
 - **Description:** How specifically a community's AI policy addresses each domain where AI shows up, rather than one blanket statement covering all use.
 - **Objective:** For each domain, determine whether the policy specifies a supervision level, a scope limit, an accountability holder, and, where relevant, a proportionality threshold, or does not address it. A project can be highly specific about code contributions and not mention notetaker bots; that gap is what this metric surfaces. A summary roll-up (overall AI use posture, across all domains) may sit alongside the per-domain breakdown.
 
-### 2. [Policy Change](ai-use-policy-change.md)
+### 2. [Policy Change](https://www.chaoss.community/kb/policy-change/)
 
 - **Description:** How a community's AI policy changes over time, and how that compares to shifts happening across other projects.
 - **Objective:** Track tightening, loosening, and newly added provisions per domain (see Consent Policy Specificity), so a community can see its own trajectory and where it sits relative to the wider ecosystem.
   - Enforcement mechanism — whether a change is enforced automatically, case-by-case, or not yet applied.
   - Vote turnout and margin — where a change is decided by vote, the participation rate and result.
 
-### 3. [Use Composition](ai-use-composition.md)
+### 3. [Use Composition](https://www.chaoss.community/kb/use-composition)
 
 - **Description:** What AI tools, models, and ownership structures are in use across a community's spaces.
   - Tool Types in Use: category level: assistant, notetaker, autonomous agent, moderation bot, etc.
@@ -95,12 +95,12 @@ This model contains the following metrics:
   - Model Type: underlying model/family, openness
   - AI Tool Owner: who controls the tool and its data
 
-### 4. [Use Compliance](ai-use-compliance.md)
+### 4. [Use Compliance](https://www.chaoss.community/kb/use-compliance/)
 
 - **Description:** Whether actual or disclosed AI use matches what current policy permits.
 - **Objective:** Check disclosed or detected use (per Use Composition) against the specificity and supervision level set for that domain (per Consent Policy Specificity).
 
-### 5. [Misuse](ai-use-misuse.md)
+### 5. [Misuse](https://www.chaoss.community/kb/misuse/)
 
 - **Description:** AI use that causes harm or violates community norms and expectations.
 - **Objective:** Capture harm and disruption that predates or falls outside written policy, so communities without an AI policy or that which violates the Code of Conduct. Other potentials:
