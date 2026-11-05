@@ -66,6 +66,9 @@ This includes:
 * [SuperTuxKart's policy on AI-generated code](https://supertuxkart.net/How_to_contribute_code#supertuxkarts-policy-on-ai-generated-code)
 * [AlpineBSD AI Policy](https://wiki.alpinebsd.org/ai-policy)
 
+### Other related guidelines and policies
+* Wine: [Clean Room Guidelines](https://gitlab.winehq.org/wine/wine/-/wikis/Clean-Room-Guidelines) and [Developer FAQ](https://gitlab.winehq.org/wine/wine/-/wikis/Developer-FAQ#can-i-contribute-code-generated-by-a-large-language-model-llm-tool)
+
 ### Organization/Company Policies
 * [Flathub Generative AI policy](https://docs.flathub.org/docs/for-app-authors/requirements#generative-ai-policy)
 * [OpenJDK Interim Policy on Generative AI](https://openjdk.org/legal/ai)
@@ -118,6 +121,9 @@ _(Private — access can be requested by joining the [GitHub Maintainers Communi
 * https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
 * https://2ndbreakfast.audreywatters.com/there-is-no-human-centered-ai/
 
+#### May
+* [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
+
 #### August
 * [Debian Votes Responsible AI Use](https://www.phoronix.com/news/Debian-Votes-Responsible-AI-Use)
 
@@ -165,6 +171,18 @@ Other curated lists and surveys covering AI and open source:
 * https://github.com/adrinjalali/agents-to-block
 * [Model Openness Framework Classes](https://arxiv.org/html/2403.13784v6#S4)
 
+### Project-specific agent instructions
+
+These resources document different approaches; an instruction file is not necessarily a formal AI-use policy.
+
+* [AGENTS.md](https://agents.md/) is an open format for guiding coding agents.
+* Project examples:
+  * [p5.js](https://github.com/processing/p5.js/blob/main/AGENTS.md)
+  * [pkgconf](https://github.com/pkgconf/pkgconf/blob/main/CONTRIBUTING.md#instructions-for-agentic-systems)
+  * [Ansible's Claude Code guide PR](https://github.com/ansible/ansible/pull/85841)
+* Research discussed by the working group:
+  * [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
+  * [On the Impact of AGENTS.md Files on the Efficiency of AI Coding Agents](https://arxiv.org/abs/2601.20404)
 
 ## Responsible AI Contribution examples
 
