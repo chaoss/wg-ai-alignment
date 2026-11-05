@@ -92,7 +92,7 @@ Re-testable outcomes are the core evidence layer for this metric. These are the 
 
 This model contains three metrics: Method of Feedback, Effectiveness of Feedback, and Efficiency of Feedback. Indicators across all three are split into two tiers: a detectable-today core that can be measured now, and a standards-we're-asking-for layer that becomes measurable only once providers adopt a short list of practices.
 
-### [AI Feedback Governance](ai-feedback-governance.md)
+### [AI Feedback Governance](https://www.chaoss.community/kb/ai-feedback-governance/)
 
 - **Description.** Whether the community has policy for when and how feedback to AI builders happens: a decided, written expectation that feedback is something this project does, through which path, triggered by what, and decided by whom.
 - **Objectives.** Establish that feedback is governed by policy rather than loudest voices. Effective feedback governance does three things: 
@@ -102,13 +102,13 @@ This model contains three metrics: Method of Feedback, Effectiveness of Feedback
 
 - **Implementation.** See data collection strategies section.
 
-### [Feedback Channel Quality](ai-feedback-channel-quality.md)
+### [Feedback Channel Quality](- [AI feedback governance](https://www.chaoss.community/kb/ai-feedback-governance/))
 
 - **Description.** Determine the quality of a channel in providing a feedback loop between open source communities and model builders.
 - **Objectives.** Discover whether a usable feedback channel exists at all, its accessibility for community and model builders, categories of feedback accepted (as per value lists above) and other SLA details.
 - **Implementation.** See data collection strategies section.
 
-### Effectiveness of Feedback
+### [Effectiveness of Feedback](https://www.chaoss.community/kb/feedback-channel-effectiveness/)
 
 - **Description.** Determine whether or not feedback was effectively resolved to the satisfaction of governance agreement (for community and/or model builder).
 - **Objectives.** Whether feedback was in scope and if so - did it produce an observable change (in model behavior, policy, attribution, compensation, reciprocal contribution, or community-facing tooling), and whether that change persists.
